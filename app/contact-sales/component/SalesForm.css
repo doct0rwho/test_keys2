@@ -1,0 +1,101 @@
+.sales-form {
+	max-width: 450px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 130px 20px 40px 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.main__header {
+	font-weight: bold;
+	margin-bottom: 12px;
+	text-align: center;
+	font-size:48px;
+}
+
+.sub__header {
+	text-align: center;
+	margin-bottom: 18px;
+	white-space: normal;
+}
+
+textarea {
+	resize: none;
+}
+
+.sales-form__buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	white-space: nowrap;
+}
+
+.sales-form__buttons>a,
+.sales-form__buttons>button {
+	margin: 0 8px;
+}
+
+.btn.primary .short-text {
+	display: none;
+}
+
+.error-text {
+	color: red;
+	font-size: 0.9rem;
+	margin-top: 4px;
+  }
+  
+
+@media (max-width: 1700.5px) {
+	.sales-form {
+		padding: 40px 20px;
+	}
+}
+
+@media (max-width: 1200.5px) {
+	.sales-form {
+		max-width: 392px;
+	}
+
+	.sales-form__buttons>a,
+	.sales-form__buttons>button {
+		font-size: 16px;
+
+	}
+
+	.sales-form {
+		padding: 40px 0px;
+
+	}
+
+	.sales-form .sub__header {
+		display: none;
+	}
+
+}
+
+
+@media (max-width: 768.5px) {
+	.sales-form__message-sent img {
+		width: 200px;
+		height: fit-content;
+		margin: 60px auto 16px auto;
+	}
+
+	.sub__header {
+		font-size: 16px;
+	}
+}
+
+
+
+@media (max-width: 575.5px) {
+	.btn.primary .short-text {
+		display: inline;
+	}
+
+	.btn.primary .full-text {
+		display: none;
+	}
+}

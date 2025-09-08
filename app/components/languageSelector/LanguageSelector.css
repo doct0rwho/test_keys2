@@ -1,0 +1,142 @@
+.language-selector-wrapper {
+  position: relative;
+  width: 224px;
+  height: 40px;
+}
+
+.language-selector {
+  width: 100%;
+  height: 100%;
+  border: 1.5px solid #fff;
+  border-radius: 6px;
+  background: transparent;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+}
+
+
+.language-selector-left {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+
+.language-selector:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.language-selector:active {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.language-selector option {
+  color: var(--text-color); 
+  background: #fff;         
+}
+
+
+.language-selector-list {
+  position: absolute;
+  bottom: 100%; /* відкривається вгору */
+  margin-bottom: 3px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 10px;
+  z-index: 999;
+  overflow: hidden;
+  padding: 8px  0px 8px 0px ;
+
+}
+
+.language-selector-item {
+    box-sizing: border-box;
+  width: 100%;
+  padding: 8px 16px;
+ font-size: 18px;
+font-style: normal;
+font-weight: 400;
+  color: var(--text-color);
+  background: #fff; 
+  cursor: pointer;
+    position: relative; 
+}
+
+.language-selector-item.selected {
+  background-color: #fff; /* білий фон */
+  font-weight: 500;
+  position: relative;
+}
+
+.language-selector-item.selected {
+  background-color: #fff;
+  font-weight: 500;
+  position: relative;
+}
+
+.language-selector-item.selected::after {
+  content: "\e902";
+  font-family: 'icomoon';
+  font-size: 18px; 
+  color: var(--fieldhover-color);
+ font-weight: 400;
+  position: absolute;
+  right: 16px;
+  top: 40%;
+  transform: translateY(-40%);
+  line-height: 1;
+}
+
+
+
+.language-selector-item:hover:not(.selected) {
+  background-color: var(--primary-color-hover);
+}
+
+.language-selector-item:active:not(.selected) {
+  background-color: var(--primary-color-active);
+}
+
+.language-selector-icon {
+  font-size: 22px;
+  color: var(--text-color-light);
+  line-height: 1;
+
+}
+
+.language-selector-arrow::before {
+  display: block;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+
+.language-selector-arrow {
+  font-size: 24px;
+ transform:rotate(180deg);
+     color: var(--text-color-light);
+
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.language-selector-arrow.open {
+ transform: rotate(0deg);
+}
+
+
+
+
+

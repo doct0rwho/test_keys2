@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/videos/Metaenga.mp4</video:content_loc>
+			<video:title>Metaenga Platform Preview</video:title>
+			<video:description>In the video, initially, an XR platform administrator assigns a training
+				session to a worker. The worker receives a notification-reminder on their phone about
+				the need to undergo the training. Subsequently, the worker puts on VR glasses. The video
+				then transitions to scenes from the training itself, where the worker interacts with an
+				electrical panel using a multimeter. Finally, the administrator on the platform reviews
+				the completion results, along with statistics for all employees, and so on.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/assets/Metaenga.jpg</video:thumbnail_loc>
+			<video:duration>20</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/Effortless.mp4</video:content_loc>
+			<video:title>Make deploying VR training on-site effortless</video:title>
+			<video:description>This video vividly demonstrates how to make deploying VR training
+				on-site effortless. It highlights the ease of uploading content onto devices, managing
+				devices from an admin panel, and measuring training outcomes. The video showcases a
+				streamlined process for setting up and conducting VR training, emphasizing the
+				simplicity and efficiency of the system for both administrators and users.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/assets/Metaenga.jpg</video:thumbnail_loc>
+			<video:duration>15</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/Effortless.mp4</video:content_loc>
+			<video:title>Make deploying VR training on-site effortless</video:title>
+			<video:description>This video vividly demonstrates how to make deploying VR training
+				on-site effortless. It highlights the ease of uploading content onto devices, managing
+				devices from an admin panel, and measuring training outcomes. The video showcases a
+				streamlined process for setting up and conducting VR training, emphasizing the
+				simplicity and efficiency of the system for both administrators and users.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/_next/static/media/Effortless.70908867.jpg</video:thumbnail_loc>
+			<video:duration>15</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/SetUpDevices.mp4</video:content_loc>
+			<video:title>Run your fleet of VR headsets</video:title>
+			<video:description>Efficiently run your fleet of VR headsets with this comprehensive
+				management solution. The video demonstrates how to easily set up VR devices, configure
+				settings, upload content remotely, manage access, and monitor your inventory. It
+				emphasizes the convenience and control you have over your VR equipment, ensuring that
+				each headset is optimally utilized and maintained for maximum efficiency and user
+				experience.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/_next/static/media/SetUpDevices.1a00c0b7.jpg</video:thumbnail_loc>
+			<video:duration>9</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/CreateTeam.mp4</video:content_loc>
+			<video:title>Streamline XR content, users and teams</video:title>
+			<video:description>Streamline XR content, users, and teams by scaling knowledge flexibly.
+				This approach involves instantly distributing immersive content and efficiently managing
+				users, teams, and headsets across your organization. The video will showcase how this
+				streamlined process facilitates the widespread dissemination of educational and training
+				material, ensuring a cohesive and efficient learning experience within a corporate
+				environment.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/_next/static/media/CreateTeam.ad94d853.jpg</video:thumbnail_loc>
+			<video:duration>13</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/AssignTraining.mp4</video:content_loc>
+			<video:title>Assign XR training on a limitless scale</video:title>
+			<video:description>In the video, we demonstrate the capability to assign training sessions
+				both to teams and individual users. This feature allows for flexible and targeted
+				training experiences, catering to the specific needs of each user or group.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/_next/static/media/AssignTraining.9df86c9f.jpg</video:thumbnail_loc>
+			<video:duration>11</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/Insights.mp4</video:content_loc>
+			<video:title>Explore results, boost productivity</video:title>
+			<video:description>Discover results and enhance productivity with real-time, AI-powered
+				performance tracking and reporting. This approach offers valuable insights into employee
+				development, helping to identify areas for improvement and opportunities for growth.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/_next/static/media/Insights.8a778985.jpg</video:thumbnail_loc>
+			<video:duration>9</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/img/features/video/VRClassrooms.mp4</video:content_loc>
+			<video:title>VR Classrooms for group sessions</video:title>
+			<video:description>VR Classrooms for Group Sessions: Gain complete control over 360-degree
+				group training sessions with the capability for remote video playback and synchronized
+				streaming. This feature enhances the group learning experience by ensuring all
+				participants are engaged and in sync during the training.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/_next/static/media/VRClassrooms.1f06905e.jpg</video:thumbnail_loc>
+			<video:duration>10</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/slider/video/HVES.mp4</video:content_loc>
+			<video:title>VR Training: High Voltage Electrical Substation Tour</video:title>
+			<video:description>Explore immersive VR simulations for electrical safety training.
+				Experience XR training programs for high-voltage scenarios. Enhance skills in a virtual
+				reality environment</video:description>
+			<video:thumbnail_loc>https://metaenga.com/assets/slider/poster/HVES.jpg</video:thumbnail_loc>
+			<video:duration>6</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/slider/video/OSHA.mp4</video:content_loc>
+			<video:title>Occupational Safety and Health Training</video:title>
+			<video:description>This VR Safety Training is dedicated to such important topics as
+				maintaining safety at the workplace, helping employees to eliminate hazardous conditions
+				and avoiding them by following the OSHA 1910.269 standards requirements.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/assets/slider/poster/OSHA.jpg</video:thumbnail_loc>
+			<video:duration>7</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/slider/video/TOS.mp4</video:content_loc>
+			<video:title>Transformer Oil Sampling Training</video:title>
+			<video:description>Through the training, attendees are given a task to perform a preventive
+				maintenance procedure — transformer oil sampling. Participants are invited to collect
+				the necessary tools and step-by-step carry out the sampling procedure for transformer
+				oil of voltage class 110 kV</video:description>
+			<video:thumbnail_loc>https://metaenga.com/assets/slider/poster/TOS.jpg</video:thumbnail_loc>
+			<video:duration>7</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com</loc>
+		<video:video>
+			<video:content_loc>https://metaenga.com/assets/slider/video/LOTO.mp4</video:content_loc>
+			<video:title>Substation Transformer Isolation Training</video:title>
+			<video:description>Delve into VR training focused on the detailed procedures of medium
+				voltage substation transformer isolation and Lockout-Tagout (LOTO) procedures.</video:description>
+			<video:thumbnail_loc>https://metaenga.com/assets/slider/poster/LOTO.jpg</video:thumbnail_loc>
+			<video:duration>7</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://metaenga.com">Metaenga</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com/vr-training-library/hv-electricaL-substation-training</loc>
+		<video:video>
+			<video:content_loc>https://www.youtube.com/embed/91xoQ5SN1LE</video:content_loc>
+			<video:title>VR Training: High Voltage Electrical Substation Tour</video:title>
+			<video:description>Explore immersive VR simulations for electrical safety training.
+				Experience XR training programs for high-voltage scenarios. Enhance skills in a virtual
+				reality environment</video:description>
+			<video:thumbnail_loc>https://img.youtube.com/vi/91xoQ5SN1LE/maxresdefault.jpg</video:thumbnail_loc>
+			<video:duration>85</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://www.youtube.com/channel/UCPJU23S1G6xskgieMb1NS-g">Digital
+				Engineering and Magic</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com/vr-training-library/transformer-oil-sampling</loc>
+		<video:video>
+			<video:content_loc>https://www.youtube.com/embed/zj4PurgE7Bs</video:content_loc>
+			<video:title>VR Training: Transformer Oil Sampling</video:title>
+			<video:description>Through the training, attendees are given a task to perform a preventive
+				maintenance procedure — transformer oil sampling. Participants are invited to collect
+				the necessary tools and step-by-step carry out the sampling procedure for transformer
+				oil of voltage class 110 kV</video:description>
+			<video:thumbnail_loc>https://img.youtube.com/vi/zj4PurgE7Bs/maxresdefault.jpg</video:thumbnail_loc>
+			<video:duration>82</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://www.youtube.com/channel/UCPJU23S1G6xskgieMb1NS-g">Digital
+				Engineering and Magic</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com/vr-training-library/feeder-protection-relay</loc>
+		<video:video>
+			<video:content_loc>https://www.youtube.com/embed/Nra0XAr0aWI</video:content_loc>
+			<video:title>VR Training: Feeder Protection Relay</video:title>
+			<video:description>The participants are able to configure a Feeder protection relay based
+				on the ABB REF615 device</video:description>
+			<video:thumbnail_loc>https://img.youtube.com/vi/Nra0XAr0aWI/maxresdefault.jpg</video:thumbnail_loc>
+			<video:duration>49</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://www.youtube.com/channel/UCPJU23S1G6xskgieMb1NS-g">Digital
+				Engineering and Magic</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+
+	<url>
+		<loc>https://metaenga.com/vr-training-library/occupational-safety-and-health</loc>
+		<video:video>
+			<video:content_loc>https://www.youtube.com/embed/D4LarinRBFA</video:content_loc>
+			<video:title>VR Training: Occupational Safety and Health</video:title>
+			<video:description>This VR Safety Training is dedicated to such important topics as
+				maintaining safety at the workplace, helping employees to eliminate hazardous conditions
+				and avoiding them by following the OSHA 1910.269 standards requirements.</video:description>
+			<video:thumbnail_loc>https://img.youtube.com/vi/D4LarinRBFA/maxresdefault.jpg</video:thumbnail_loc>
+			<video:duration>90</video:duration> <!-- Продолжительность в секундах -->
+			<video:uploader info="https://www.youtube.com/channel/UCPJU23S1G6xskgieMb1NS-g">Digital
+				Engineering and Magic</video:uploader>
+			<video:live>false</video:live>
+		</video:video>
+	</url>
+	<!-- Другие URL с видео могут быть добавлены аналогичным образом -->
+</urlset>

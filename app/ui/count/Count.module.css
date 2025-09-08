@@ -1,0 +1,32 @@
+.block {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 106px;
+	height: 40px;
+	padding: 8px;
+	border: 1px solid rgba(46, 58, 75, 0.5);
+	border-radius: 6px;
+}
+
+.block > span {
+	position: relative;
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
+	user-select: none;
+}
+
+
+
+.block > input {
+	width: 42px;
+	height: 40px;
+	border: none;
+	outline: none;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--textdark-color);
+	background: transparent;
+}

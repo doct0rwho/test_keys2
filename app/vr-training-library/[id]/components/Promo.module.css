@@ -1,0 +1,177 @@
+.promo {
+	position: relative;
+	/*margin: 70px 0px 0px 0px;*/
+	min-height: 774px;
+	height: calc(100vh - 70px);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+
+.promo::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #15181D;
+	opacity: 0.56;
+	z-index: -1;
+}
+
+.promo__img,
+.promo video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	z-index: -2;
+}
+
+.promo__info {
+	height: 100%;
+	text-align: center;
+}
+
+.promo__info>p {
+	color: #fff;
+	margin: 19px auto 0px auto;
+	line-height: 155%;
+	max-width: 100%;
+}
+
+.promo__info_buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 36px auto 0px auto;
+	/*max-width: 460px;*/
+	flex-wrap: wrap;
+}
+
+.promo__info_buttons_btn {
+	flex-basis: 50%;
+	flex-grow: 0;
+	flex-shrink: 1;
+
+}
+
+.promo__info_buttons_btn_first {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.promo__info_buttons_btn_second {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.promo__info_buttons a {
+	margin: 0 16px 34px 16px;
+	white-space: nowrap;
+	position: relative;
+}
+
+.promo__info_buttons a>p {
+	position: absolute;
+	bottom: -26px;
+	left: 50%;
+	transform: translateX(-50%);
+	color: #D1D1D1 !important;
+	font-size: 12px;
+}
+
+.promo__info_buttons_pdf {
+	margin-bottom: 0 !important;
+}
+
+.promo__img {
+	display: none;
+}
+
+.promo video {
+	display: block;
+}
+
+@media (max-width: 1600.5px) {
+	.promo {
+		min-height: 600px;
+		height: calc(100vh - 70px);
+	}
+
+}
+
+@media (max-width: 1200.5px) {
+	.promo {
+		min-height: 500px;
+		height: calc(100vh - 70px);
+	}
+}
+
+@media (max-width: 991.5px) {
+	.promo {
+		min-height: 450px;
+		/*height: calc(100vh - 70px);*/
+		height: 100%;
+	}
+
+	.promo__info>p {
+		display: none;
+	}
+
+}
+
+@media (max-width: 575.5px) {
+
+	.promo__info_buttons a>p {
+		bottom: -28px;
+	}
+
+	.promo__img {
+		display: block;
+	}
+
+	.promo video {
+		display: none;
+	}
+
+	.promo {
+		height: calc(100vh - 56px);
+	}
+
+	.promo__info_buttons {
+		flex-direction: column;
+		width: fit-content;
+	}
+
+	.promo__info_buttons_btn {
+		width: 100%;
+		max-width: 100%;
+		display: inline-flex;
+		width: -webkit-fill-available;
+	}
+
+	.promo__info_buttons a {
+		/*width: 210px;*/
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		white-space: pre-wrap;
+	}
+
+	.promo__info>p {
+		display: none;
+	}
+}
+
+@media (max-width: 475.5px) {
+
+	.promo__info h1>br {
+		display: none;
+	}
+}

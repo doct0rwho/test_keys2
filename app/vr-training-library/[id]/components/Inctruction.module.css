@@ -1,0 +1,13 @@
+.instruction {
+	padding: 40px 0;
+	width: 100%;
+}
+
+@media (max-width: 850.5px) {
+	.instruction {
+		padding: 20px 0;
+	}
+	.instruction .title {
+		display: none;
+	}
+}

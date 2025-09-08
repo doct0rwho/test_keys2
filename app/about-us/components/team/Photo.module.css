@@ -1,0 +1,21 @@
+.photo {
+	text-align: center;
+	margin: 0px 0px 40px 0px;
+}
+
+.photo>h5 {
+	margin: 0px 0px 24px 0px;
+}
+
+.photo>img {
+	width: 100%;
+	height: auto;
+	border-radius: 12px;
+}
+
+@media (max-width: 1200.5px) {
+	.photo {
+		margin: 0px 0px 24px 0px;
+
+	}
+}

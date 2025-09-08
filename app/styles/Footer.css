@@ -1,0 +1,281 @@
+.footer {
+	background: var(--text-color);
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.footer .container {
+	margin-top: 0;
+}
+
+.footer__container {
+	display: flex;
+	flex-direction: column;
+	padding: 46px 0px 17px 0;
+	width: 100%;
+}
+
+.socials__item {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0px 20px 0px 0px;
+	cursor: pointer;
+	transition: color 0.2s ease-in-out;
+}
+
+.socials__item:hover,
+.socials__item:hover > i::before {
+	transition: color 0.2s ease-in-out;
+	color: var(--primary-color);
+}
+
+.socials__item>i {
+	font-size: 30px;
+}
+
+.socials__vr {
+	margin: 16px 0px 0px 0px;
+	display: none;
+	font-size: 18px;
+}
+
+.socials__vr>p {
+	margin: 0px 0px 4px 0px;
+	font-weight: 600;
+	color: inherit;
+}
+
+.socials__vr a {
+	color: var(--text-color);
+}
+
+.footer__docs {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 0px; /* щоб не прилипало до офісів */
+  flex-wrap: wrap;
+}
+
+.docs__col {
+  flex: 1 1 200px; /* адаптивна ширина */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.docs__item {
+  text-decoration: none;
+  color: inherit;
+  font-size: 18px;
+}
+
+.docs__item:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 660.5px) {
+	.docs__item {
+		text-decoration: underline;
+	}
+}
+
+.contacts {
+	display: flex;
+	flex-direction: column;
+}
+
+.contacts__item {
+	display: flex; 
+	align-items: flex-start; 
+	flex-direction: column;
+	margin: 40px 0px 0px 0px;
+	padding: 30px 0 0 0px;
+	position: relative;
+	gap: 6px; 
+}
+
+.contacts__item-flag {
+	display: flex;
+	gap: 8px; 
+}
+
+.contacts__item-title {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.contacts__item-text {
+	display: flex;
+	flex-direction: column; 
+}
+
+.contacts__item-text a {
+	color: inherit;
+	text-decoration: none;
+	margin-top: 4px;
+}
+
+.contacts__item-title>p{
+	margin: 0px;
+}
+
+.contacts__item a {
+	display: block;
+	margin: 2px 0px 0px 0px;
+	color: inherit;
+	text-decoration: none;
+}
+
+.contacts__item>img {
+	margin: 0px 20px 0px 0px;
+}
+
+.contacts__item-text span {
+	white-space: nowrap;
+	flex: 1;
+}
+
+.footer__provide {
+	margin: 20px 0px 0px 0px;
+	width: 100%;
+}
+
+/* Контейнер з © і мовним селектором */
+.footer__bottom-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* дозволяє перенос на мобілках */
+  gap: 10px;
+}
+
+.footer__language {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.text__footer{
+	color: var(--text-color-light)
+}
+
+@media (max-width: 944.5px) {
+	.socials {
+		margin-bottom:40px;
+	}
+
+}
+
+@media (min-width: 1440.5px) {
+	.docs__col:first-child {
+  margin-bottom: 10px;
+}
+
+
+}
+
+@media (min-width: 944.5px) {
+	.footer__container {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+}
+@media (min-width: 660.5px) {
+	
+
+	.docs,
+	.socials {
+		flex-basis: 50%;
+		flex-grow: 0;
+		flex-shrink: 0;
+		margin-top: 0;
+	}
+
+
+	.contacts {
+		flex-basis: 100%;
+		flex-direction: row;
+		flex-wrap: nowrap;
+	}
+
+	.contacts__item {
+		flex-basis: 50%;
+		flex-grow: 0;
+		flex-shrink: 0;
+		padding: 30px 10px 0px 0px;
+	}
+}
+
+@media (min-width: 991.5px) {
+	.socials__vr {
+		display: block;
+	}
+}
+
+@media (min-width: 1440.5px) {
+	.footer__container {
+		padding: 50px 0px;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+
+	.docs,
+	.socials {
+		flex-basis: auto;
+	}
+
+	.socials {
+		flex-grow: 1;
+	}
+
+	
+	/*comment from time*/
+
+	.docs {
+		display: block;
+	}
+
+	.docs__item {
+		display: block;
+	}
+
+	.contacts {
+		flex-basis: auto;
+	}
+
+	.contacts__item {
+		display: flex;
+		align-items: flex-start;
+		margin: 0 0 0 90px;
+		padding: 30px 0 0 0px;
+		flex-basis: auto;
+	}
+
+	.contacts__item>img {
+		margin: -4px 20px 0px 0px;
+	}
+
+	.contacts__item-text>p:nth-child(1) {
+		margin-top: -5px;
+	}
+
+	.footer__provide {
+		flex-basis: 100%;
+	}
+}
+
+@media (max-width: 768.5px) {
+  .footer__bottom-row {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+
+  .footer__language {
+    width: 100%;
+    justify-content: flex-start;
+    margin-bottom: 8px;
+  }
+}

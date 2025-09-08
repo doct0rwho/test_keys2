@@ -1,0 +1,165 @@
+.reasons__flex {
+	display: -webkit-flex;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 620px;
+	/*align-items: center;
+	-webkit-align-items: center;*/
+}
+
+.reasons__menu {
+	width: clamp(300px, 33vw, 480px);
+	-webkit-flex-grow: 0;
+	flex-grow: 0;
+	-webkit-flex-shrink: 0;
+	flex-shrink: 0;
+	-webkit-align-self: center; /* Safari 7- */
+	align-self: center;
+}
+
+.reasons__menu-item {
+	padding: 11px 16px;
+	margin: 0px 0px 3px 0px;
+	display: flex;
+	border-radius: 12px;
+	cursor: pointer;
+	transition: background 0.2s ease-in-out;
+	width: 100%;
+	max-width: 100%;
+	min-width: 0;
+	margin-left: auto;
+}
+
+/* .reasons__menu-item {
+	width: 100%;
+	max-width: 100%;
+	min-width: 0;
+} */
+
+.reasons__menu-item-text p {
+	white-space: normal;
+	word-break: break-word;
+	line-height: 1.4;
+}
+
+
+
+
+.reasons__menu-item:hover,
+.reasons__menu-item.active {
+	background: var(--secondary-color-dark);
+}
+
+
+.reasons__menu-item-icon {
+	margin: 0px 10px 0px 0px;
+}
+
+.reasons__slider {
+	height: fit-content;
+	align-self: center;
+}
+
+.reasons__swiper {
+	width: 900px;
+	height: 100%;
+}
+
+
+.reasons__swiper .swiper-pagination {
+	display: none;
+}
+
+.reasons__swiper .swiper-slide {
+	height: fit-content;
+}
+
+.reasons__menu__circular-progress {
+	width: 24px;
+	height: 24px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
+
+@media (max-width: 1440.5px) {
+	.reasons__swiper {
+		width: 760px;
+	}
+
+	.reasons__menu {
+		width: 380px;
+		flex-grow: 1;
+		flex-shrink: 0;
+	}
+
+	.reasons__menu-item {
+		position: relative;
+	}
+
+	.reasons__menu-item-icon {
+		position: absolute;
+		right: 0px;
+		top: 8px;
+	}
+
+	.reasons__menu-item-icon > img {
+		display: none;
+	}
+
+}
+
+@media (max-width: 1200.5px) {
+	.reasons__swiper {
+		width: 660px;
+	}
+
+	.reasons__menu {
+		width: 370px;
+		flex-grow: 1;
+		flex-shrink: 0;
+	}
+}
+
+@media (max-width: 1100.5px) {
+	.reasons__swiper {
+		width: 560px;
+	}
+
+	.reasons__menu {
+		display: block;
+		width: 370px;
+		flex-grow: 1;
+		flex-shrink: 0;
+	}
+}
+
+@media (max-width: 1000.5px) {
+	.reasons__swiper .swiper-pagination {
+		display: block;
+	}
+	.reasons__slider, 
+	.reasons__flex  {
+		height: fit-content;
+	}
+	.reasons__swiper {
+		min-width: 300px;
+		width: 100vw;
+		
+	}
+
+	.reasons__menu {
+		display: none;
+	}
+
+	.reasons__swiper .swiper-slide {
+		width: 540px;
+	}
+}
+
+@media (max-width: 540.5px) {
+	.reasons__swiper .swiper-slide {
+		width: 90%;
+	}
+}

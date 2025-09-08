@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /www.Metaenga.com/
+Sitemap: https://metaenga.com/sitemap.xml
+Sitemap: https://metaenga.com/videositemap.xml
+

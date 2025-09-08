@@ -1,0 +1,23 @@
+.explorevr {
+	width: 100%;
+	margin: 120px 0px 0px 0px;
+}
+
+@media (max-width: 1440.5px) {
+	.explorevr {
+		margin: 100px 0px 0px 0px;
+	}
+}
+
+@media (max-width: 540.5px) {
+	.explorevr {
+		margin: 70px 0px 0px 0px;
+	}
+}
+
+.explorevr__btns {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 38px 0px 0px 0px;
+}

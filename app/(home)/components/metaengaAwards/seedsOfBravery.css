@@ -1,0 +1,263 @@
+.medal-Utilitie{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+    padding: 8px;
+    width: 400px;  /* Фіксуємо однакову ширину */
+    min-width: 300px; /* Запобігає надто малим розмірам */
+    background-image: url('/assets/metaengaAwards/BG.png');
+    background-repeat: no-repeat;  
+    background-size: cover;
+    border: 2px solid #DAD8FF;
+    border-radius: 8px;
+  }
+
+  .medal-Utilitie__text::before {
+    content: attr(data-default); /* За замовчуванням відображаємо основний текст */
+  }
+
+  .medal-Utilitie__content {
+    display: flex;
+    flex-direction: column; /* Розташування елементів один під одним */
+}
+
+.medal-Utilitie__sob {
+  display: flex; 
+  margin-top: 4px;
+}
+
+  .medal-Utilitie__trophy-icon{
+    height: 64px;
+    width: auto;
+    margin-right: 11px;
+  }
+
+  .medal-Utilitie__metaenga img{
+    height: 43px;
+    width: auto;
+    align-items: center;
+  }
+
+  .medal-Utilitie__divider {
+    width: 1px; 
+    height: 16px; 
+    background-color: var(--field-color);
+    margin: 0 4px 0 9px; 
+    border-radius: 22px;
+  }
+ 
+  .medal-Utilitie__brand-name {
+    display: flex;
+    align-items: flex-end;
+  }
+
+.medal-Utilitie__metaenga img,
+.medal-Utilitie__brand-name img {
+  width: auto;
+  height: 32px;
+}
+
+  .medal-Utilitie__sob p{
+    color: var(--fieldhover-color);
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 9px;
+     margin-top: auto; /* Відсуваємо текст вниз */
+    text-align: left; /* Вирівнюємо текст */
+  }
+  .medal-Utilitie__metaenga p{
+    color: var(--mid__header);
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: -2px;
+  }
+
+  @media (max-width: 991.5px)
+  {
+
+    .medal-Utilitie {
+      width:340px
+    }
+
+    .medal-Utilitie__trophy-icon{
+      height: 40px;
+      width: auto;
+      margin-right: 6px;
+    }
+
+    .medal-Utilitie__trophy{
+      display: flex;
+      align-items: center;
+    }
+
+    .medal-Utilitie__metaenga img{
+      height: 34.5px;
+      width: auto;
+    }
+
+    .medal-Utilitie__metaenga p {
+      font-size: 20px;
+    }
+
+    .medal-Utilitie__sob p{
+      font-size: 14px;
+    }
+
+    .medal-Utilitie__brand-name img{
+      height: 18px;
+      width: auto;
+    }
+  
+  }
+
+
+  @media (max-width: 369.5px)
+  {
+
+    .medal-Utilitie {
+      width:328px;
+      justify-content:  flex-start;
+    }
+
+    .medal-Utilitie__text::before {
+      content: attr(data-alt); /* На вузьких екранах замінюємо на інший текст */
+    }
+    
+    .medal-Utilitie__trophy-icon{
+      height: 60px;
+      width: auto;
+      margin-right: 6px;
+    }
+
+    .medal-Utilitie__trophy{
+      display: flex;
+      align-items: center;
+    }
+
+    .medal-Utilitie__sob {
+      display: flex; flex-direction: column;
+    }
+
+    .medal-Utilitie__sob p{
+      margin-top:2px;
+      margin-left: 0px;
+    }
+
+  }
+/* 
+  @media (max-width: 757.5px){
+  
+    .medal-Utilitie{
+      max-width: 600px;
+      padding: 8px 38px;
+      background-image: url('/assets/metaengaAwards/BG_new.png'); 
+      background-size: 105%;
+      background-position: center; 
+    }
+
+    .medal-Utilitie__metaenga img{
+      height: 30.5px;
+      width: auto;
+    }
+
+    .medal-Utilitie__brand-name img{
+      height: 28px;
+      width: auto;
+    }
+
+    .medal-Utilitie__trophy-icon{
+      margin-right: 18px;
+    }
+
+  } */
+/* 
+  @media (max-width: 662.5px){
+
+    .medal-Utilitie{
+      max-width: 100%;
+      border-radius: 10px;
+      padding: 8px 18px;
+      width: 100%;        
+      max-width: none;     
+    }
+
+    .medal-Utilitie__trophy-icon{
+      height: 74px;
+      width: auto;
+    }
+
+    .medal-Utilitie__metaenga img{
+      height: 24.5px;
+      width: auto;
+    }
+
+    .medal-Utilitie__brand-name img{
+      height: 22px;
+      width: auto;
+    }
+    .medal-Utilitie__metaenga p,
+    .medal-Utilitie__sobp{
+      font-size: 16px;      
+    }
+
+    .medal-Utilitie__divider {
+      height: 60px; 
+    }
+  } */
+
+
+  /* @media (max-width: 536.5px){
+
+      .medal-Utilitie__content {
+      flex-direction: column; 
+      align-items: center;
+    }
+     .medal-Utilitie__content {
+      flex-direction: column; 
+      align-items: center;
+    }
+  
+    .medal-Utilitie__divider {
+      display: none; 
+    }
+
+    .medal-Utilitie__trophy-icon{
+      height: 74px;
+      width: auto;
+    }
+
+    .medal-Utilitie__metaenga img{
+      height: 22.5px;
+      width: auto;
+    }
+
+    .medal-Utilitie__brand-name img{
+      height: 20px;
+      width: auto;
+      margin-top: 1px;
+    }
+
+    .medal-Utilitie__content {
+      flex-direction: column; 
+      align-items: center;
+    }
+
+    .medal-Utilitie__sob p{
+      margin-top: 0px;
+      font-size: 16px;
+      margin-right: 20px;
+      
+    }
+
+    .medal-Utilitie__sob{
+      margin-right: 8px;
+    }
+
+
+    .medal-Utilitie__metaenga p{
+      margin-left: -1px;
+      font-size: 18px;
+    } 
+
+  } */

@@ -1,0 +1,123 @@
+.challenge {
+    padding: 72px 0 0px 0;
+  }
+  
+  .challenge__title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 7px;
+  }
+  
+  .challenge__subtitle {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 24px;
+  }
+  
+  .challenge__descriptionWrapper {
+    max-width: 1248px;
+    margin: 0 auto; 
+    margin-bottom: 72px;
+  }
+  
+  .challenge__list {
+    padding-left: 20px;
+    margin-bottom: 24px;
+    list-style: disc !important;
+    margin-left: 8px;
+  }
+  .challenge__list li {
+  margin-bottom: 20px; /* або 16px, або скільки потрібно */
+}
+  
+  .challenge__summary, .challenge__prelist, .challenge__list li{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+  }
+  
+  
+  .challenge__media {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 40px;
+    max-width: 1248px;
+    margin: 0 auto;
+  }
+  .challenge__image {
+    width: 100%;
+    aspect-ratio: 151 / 85;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+  }
+  
+  
+
+  @media (max-width: 1500px) {
+    .challenge__descriptionWrapper {
+        max-width: 872px;
+  
+    }
+    .challenge__media{
+      max-width: 872px;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .challenge__media {
+      gap: 24px;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .challenge__title {
+      font-size: 36px;
+      line-height: 40px;
+      margin-bottom: 10px;
+  
+    }
+    .challenge__subtitle{
+      font-size: 24px;
+      line-height: 28px;
+    }
+    .challenge {
+      padding: 49px 0 0px 0;
+    }
+    .challenge__descriptionWrapper {
+      margin-bottom: 49px;
+    }
+   
+  }
+
+  
+  @media (max-width: 768px) {
+    .challenge__media {
+      grid-template-columns: 1fr; 
+      gap: 16px; 
+    }
+  }
+
+  @media (max-width: 420px) {
+
+    .challenge__title {
+      font-size: 24px;
+      margin-bottom: 8px;
+
+    }
+    .challenge__subtitle{
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .challenge__summary, .challenge__prelist, .challenge__list li{
+      font-size: 16px;
+    }
+   
+  }
+  
+  

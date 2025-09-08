@@ -1,0 +1,9 @@
+.bunner__section {
+	margin: 50px 0;
+}
+
+@media (max-width: 767.5px) { 
+	.bunner__section {
+		margin: 0px 0 50px 0;
+	}
+}

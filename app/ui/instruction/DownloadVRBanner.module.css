@@ -1,0 +1,57 @@
+.banner {
+	background: url('/assets/bg/banner-bg.jpg') left center no-repeat;
+	background-size: cover;
+	border-radius: 8px;
+	border: 1px solid #DAD8FF
+}
+
+.wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 12px 16px;
+	width: 100%;
+}
+
+.links {
+	display: flex;
+}
+
+.links>a:nth-child(1) {
+	margin-right: 16px;
+	margin-left: 19px;
+}
+
+
+.wrapper p {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.wrapper p> br {
+	display: none;
+}
+
+
+@media (max-width: 860.5px) {
+
+	.wrapper {
+		flex-direction: column;
+	}
+
+	.wrapper p {
+		font-size: 16px;
+		text-align: center;
+		margin: 0px 0px 8px 0px;
+	}
+
+	.banner {
+		background: url('/assets/bg/banner-bg-mob.jpg') left center/cover no-repeat;
+	}
+}
+
+@media (max-width: 600px) {
+	.wrapper p> br {
+		display: inline;
+	}
+}

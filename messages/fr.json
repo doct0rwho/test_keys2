@@ -1,0 +1,1434 @@
+{
+  "Promo": {
+    "title1": "Formation VR pour ",
+    "title2": "le secteur de l’énergie",
+    "videoAlt": "Le responsable présente la plateforme VR pour une gestion de formation fluide.\nDécouvrez la formation en réalité virtuelle, les simulations de sécurité en VR, les expériences de formation XR, les programmes de formation VR innovants, les solutions d’apprentissage immersif et le développement des compétences en VR.\nAdoptez l’Edtech avec des solutions de sécurité en VR, des simulations réalistes en VR et des plateformes XR de pointe. Assistez à des parcours éducatifs visuels, au développement des compétences en VR et à des expériences de formation engageantes pour les employés. Plongez dans des scénarios haute tension et des simulations de sécurité électrique en VR. Expérimentez la XR pour la gestion dans l’industrie de l’énergie et les services publics.\n",
+    "textBody1": "Metaenga — Plateforme XR qui propose des solutions de formation VR prêtes à l’emploi pour les entreprises, rendant le développement des compétences plus efficace.",
+    "textBody2": "Débloquez un apprentissage immersif de nouvelle génération.",
+    "buttonFree": "Demander une démo",
+    "buttonContact": "Nous contacter",
+    "imgAlt": "Lire la vidéo"
+  },
+  "Partners": {
+    "title": "Des partenariats dont nous sommes fiers"
+  },
+  "Benefits": {
+    "title": "Avantages de la formation VR",
+    "benefit1_0": "apprentissage ",
+    "benefit1_1": "plus rapide",
+    "benefit2_0": "plus ",
+    "benefit2_1": "économique",
+    "benefit3_0": "moins ",
+    "benefit3_1": "d’accidents"
+  },
+  "Reasons": {
+    "title": "Fonctionnalités clés"
+  },
+  "ReasonsSlider": {
+    "reason1": {
+      "title": "Bibliothèque VR",
+      "text_0": "Pack de formations VR, ",
+      "text_1": "allant des bases aux modules avancés."
+    },
+    "reason2": {
+      "title": "Analyse des formations",
+      "text_0": "Suivi des performances et système de ",
+      "text_1": "rapports en temps réel, alimenté par l’IA."
+    },
+    "reason3": {
+      "title": "Gestion de la distribution",
+      "text_0": "Gérez les appareils VR, le contenu ",
+      "text_1": "et les accès à distance."
+    },
+    "reason4": {
+      "title": "Lecture de vidéos 360°",
+      "text_0": "Téléversez facilement des vidéos 360° ",
+      "text_1": "pour une expérience immersive."
+    },
+    "reason5": {
+      "title": "Salles de classe",
+      "text_0": "Sessions de formation en groupe 360° ",
+      "text_1": "avec diffusion synchronisée."
+    }
+  },
+  "ExploreVR": {
+    "title": "Formations VR prêtes à l’emploi",
+    "button": "Bibliothèque VR"
+  },
+  "GettingStarted": {
+    "title": "Commencer",
+    "title1": "1. Inscription",
+    "textBody1_start": "Inscrivez-vous\n",
+    "textBody1_middle": "pour accéder à la plateforme ou tout débloquer avec les offres",
+    "textBody1_standard": "Standard",
+    "textBody1_and": "et",
+    "textBody1_enterprise": "Entreprise.",
+    "textBody1_plan": "",
+    "title2": "2. Télécharger l’app VR",
+    "textBody2": "Téléchargez l’app sur votre casque VR.",
+    "title3": "3. Démarrer la formation",
+    "textBody3": "Accédez à l’onglet formation VR. Lancez la formation."
+  },
+  "PlatformLink": {
+    "download": "Télécharger pour",
+    "metaQuest": "Quest",
+    "metaPico": "Pico"
+  },
+  "PriceBanner": {
+    "banerAlt": "Girl",
+    "title1": "Commencez la formation",
+    "title2": "avec du contenu immersif",
+    "buttonFree": "Demander une démo",
+    "buttonPricing": "Tarifs"
+  },
+  "ValenciaDigitalSummit": {
+    "trophy1Alt": "3D Trophy Icon",
+    "text": "Meilleur Startup AV",
+    "vdsLogoAlt": "Valencia Digital Summit Logo"
+  },
+  "SeedsOfBravery": {
+    "medal1Alt": "3D Medal Icon",
+    "text": "Label d’Excellence",
+    "sobLogoAlt": "Seeds of Bravery Logo"
+  },
+  "FAQ": {
+    "mainTitle": "Foire aux questions",
+    "question1": {
+      "title": "Qu’est-ce que Metaenga ?",
+      "text_0": "Metaenga est une plateforme de formation XR qui permet aux entreprises industrielles et aux prestataires de formation d’intégrer la réalité virtuelle à leurs programmes d’apprentissage existants, à grande échelle, et de donner vie à leurs sessions de formation.",
+      "text_1": "Vous pouvez utiliser divers modules de formation VR, gérer le contenu immersif à l’échelle de l’organisation, importer vos propres vidéos 360° pour des sessions de groupe ou individuelles, et explorer le suivi des performances en temps réel avec des rapports utiles sur le développement des compétences."
+    },
+    "question2": {
+      "title": "Quel contenu immersif est disponible sur Metaenga ?",
+      "text_0": "Plus de  ",
+      "text_1": "11 formations VR",
+      "text_2": "et vidéos 360° sont actuellement disponibles.",
+      "text_3": "Metaenga propose une bibliothèque en constante évolution sur la sécurité au travail et l’industrie de l’énergie et des services publics.",
+      "text_4": "Une bibliothèque de vidéos 360° est également accessible, que vous pouvez enrichir avec vos propres vidéos éducatives. Elle est consultable via l’interface web ou depuis n’importe quel appareil. Apprenez à votre rythme, seul ou avec vos collègues."
+    },
+    "question3": {
+      "title": "Combien coûte Metaenga ?",
+      "text_0": "Découvrez les solutions immersives avancées de Metaenga, accessibles sur vos casques VR préférés, avec un tarif mensuel ou annuel fixe par casque. Les forfaits vont de ",
+      "text_1": "GRATUIT",
+      "text_2": " à ",
+      "text_3": "USD",
+      "text_4": "par mois et par casque. Aucun coût supplémentaire."
+    },
+    "question4": {
+      "title": "Quel casque VR est nécessaire ?",
+      "text_0": "Metaenga prend en charge les casques standards de l’industrie",
+      "text_1": "et  ",
+      "text_3": "pour la formation en VR.",
+      "text_4": "Notre équipe travaille activement à élargir la liste des casques compatibles, avec de nouveaux modèles ajoutés régulièrement.",
+      "text_5": "Le contenu vidéo 360° est accessible partout. Connectez-vous avec le compte Metaenga de votre organisation pour regarder instantanément sur le web via  ",
+      "text_6": "metaenga.com",
+      "text_7": "depuis votre ordinateur personnel ou tout appareil connecté à Internet, y compris les smartphones et tablettes.",
+      "text_8": "Vous pouvez également télécharger vos vidéos d’apprentissage 360° préférées via",
+      "text_9": "iOS",
+      "text_10": "et",
+      "text_11": "Android.",
+      "text_12": "Utilisez la fonction de téléchargement pour les visionner en déplacement, même sans connexion Internet. Emportez Metaenga partout avec vous."
+    },
+    "question5": {
+      "title": "Comment puis-je annuler mon abonnement ?",
+      "text_0": "Metaenga est flexible. Aucun contrat contraignant, aucun engagement. Vous pouvez facilement annuler le compte de votre organisation en ligne en quelques clics ou simplement en nous écrivant à",
+      "text_1": "info@metaenga.com",
+      "text_2": "Aucun frais d’annulation — activez ou désactivez les comptes utilisateurs de votre organisation à tout moment."
+    },
+    "question6": {
+      "title": "Puis-je importer le contenu VR existant de mon organisation ?",
+      "text_0": "Pas pour le moment. Metaenga propose une vaste bibliothèque de formations VR en constante évolution. Nous offrons également des services de développement sur mesure pour créer des solutions de formation VR uniques, adaptées aux besoins de votre organisation.",
+      "text_1": "La possibilité d’importer votre propre contenu VR sera disponible dans le courant de l’année prochaine."
+    },
+    "question7": {
+      "title": "Metaenga est-il adapté à mes besoins ?",
+      "text_0": "Metaenga convient à tous — des entreprises aux utilisateurs individuels.",
+      "text_1": "La plateforme Metaenga permet de développer des compétences de manière intuitive et conviviale, en intégrant la sensibilisation à la sécurité et à la santé au travail dans un environnement professionnel positif, ce qui augmente la rapidité d’apprentissage, l’engagement et la productivité."
+    }
+  },
+  "Contact": {
+    "toastSuccess": "Votre message a été envoyé. Nous vous contacterons bientôt.",
+    "toastError": "Message non envoyé. Veuillez réessayer plus tard.",
+    "title": "Restons en contact !",
+    "textBody": "Écrivez-nous, nous serons ravis de discuter de la manière dont nous pouvons améliorer vos résultats de formation.",
+    "textError_0": "Champ obligatoire",
+    "textError_1": "Adresse e-mail invalide",
+    "fieldName": "Nom complet *",
+    "fieldEmail": "E-mail *",
+    "fieldMessage": "Message",
+    "buttonSend": "Envoyer"
+  },
+  "TrainingInfoData": {
+    "101": {
+      "linkid": "feeder-protection-relay",
+      "name": "Relais de Protection de Départ",
+      "shortname": "Relais de Protection de Départ",
+      "category": "Connaissance du produit",
+      "shortdescr": "Les participants apprennent à configurer les valeurs de courant primaire dans le système de relais de protection de départ pendant la formation.",
+      "descr": "La formation VR sur le relais de protection de départ permet aux participants de découvrir les fonctions, les dispositifs d’entrée et de sortie, les indicateurs, les paramètres de configuration et les données techniques. Les participants peuvent également explorer l’arborescence complète du menu et configurer la valeur de courant primaire.",
+      "briefdescr": "Les participants peuvent configurer un relais ABB REF615.",
+      "duration": "20 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Paramètres FPR, données techniques, arborescence complète du menu, courant primaire",
+      "audience": "Université, école technique, intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Free",
+      "cardalt": "Formation VR – Relais de protection de départ. Participez à une formation immersive en VR pour maîtriser le fonctionnement des relais de protection de départ. Améliorez vos compétences en configuration et maintenance des relais. Découvrez les programmes XR pour des systèmes de protection efficaces et fiables.",
+      "videoalt": "Renforcez votre compréhension des systèmes de relais de protection de départ grâce à notre formation interactive en VR développée par Digital Engineering and Magic.\nDécouvrez le rôle crucial des relais de protection pour prévenir les dommages aux équipements électriques et assurer une alimentation électrique continue.\nNotre formation offre une vue d’ensemble complète, couvrant l’interface utilisateur, les entrées, sorties, la surveillance et les fonctions de contrôle des systèmes modernes de relais de protection de départ. Élevez vos connaissances et compétences en protection des réseaux électriques. Planifiez votre démo dès aujourd’hui et entrez dans le futur de la gestion des systèmes électriques.",
+      "keywords": "Formation VR Relais de Protection de Départ, Cours de Configuration de Relais VR, Formation aux Systèmes de Relais Électriques, Formation VR en Protection des Réseaux Électriques, Formation Relais ABB REF615, Formation Électrique en Réalité Virtuelle, Cours Interactif d’Opération de Relais, Formation VR sur les Systèmes d’Alimentation Électrique, Formation en Protection des Systèmes Électriques, Formation Technique sur les Relais de Départ, Metaenga, formation VR, plateforme VR, XR, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1001": {
+      "linkid": "hv-electricaL-substation-training",
+      "name": "Poste Électrique Haute Tension",
+      "shortname": "Poste Électrique Haute Tension",
+      "category": "Connaissances générales",
+      "shortdescr": "Découvrez la formation VR pour postes HT et apprenez les spécifications des transformateurs et appareillages électriques.",
+      "descr": "En explorant un environnement virtuel de poste électrique, cette formation aidera les participants à mieux connaître l’agencement des équipements spécifiques à l’industrie : transformateurs de puissance, disjoncteurs à huile, sectionneurs, réenclencheurs, aire de manœuvre et appareillage électrique.",
+      "briefdescr": "Transmission et distribution d’énergie, fonctions des postes",
+      "duration": "20 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Agencement poste MT, transformateurs de puissance, interrupteurs à air groupés, sectionneurs, TC et TV",
+      "audience": "Université, école technique, intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation VR : Visite du poste électrique haute tension. Explorez des simulations immersives en VR pour la formation à la sécurité électrique.\nDécouvrez les programmes de formation XR pour les scénarios haute tension.\nAméliorez vos compétences dans un environnement de réalité virtuelle.",
+      "videoalt": "Explorez notre programme de formation VR innovant conçu par Digital Engineering and Magic pour les professionnels du secteur électrique.\nAcquérez une expérience pratique dans les postes électriques haute tension, en vous familiarisant avec les équipements spécifiques du secteur dans un environnement virtuel.\nNotre formation immersive couvre les termes des postes, les paramètres clés et les taux de performance, offrant une expérience d’apprentissage flexible et répétable.\nPlanifiez votre démo dès aujourd’hui pour révolutionner votre formation dans le secteur électrique en pleine évolution.",
+      "keywords": "Formation poste haute tension, formation électrique VR, simulation VR de poste électrique, cours opérations poste HT, formation sécurité en réalité virtuelle, éducation VR en génie électrique, atelier transformateur de puissance VR, formation VR pour l’industrie électrique, apprentissage interactif poste électrique, démonstration appareillage VR, Metaenga, formation VR, plateforme VR, XR, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1002": {
+      "linkid": "occupational-safety-and-health",
+      "name_0": "Formation Sécurité",
+      "name_1": "et Santé au Travail",
+      "shortname": "Sécurité et santé au travail",
+      "category": "Procédure de sécurité",
+      "shortdescr": "Cette expérience VR garantit la sécurité des travailleurs dans les zones dangereuses proches des équipements électriques.",
+      "descr": "Cette formation VR en sécurité est dédiée à des sujets importants tels que le maintien de la sécurité au travail, aidant les employés à éliminer les conditions dangereuses et à les éviter en respectant les exigences de la norme OSHA 1910.269.",
+      "briefdescr": "Formation à la sécurité pour les travailleurs à haut risque.",
+      "duration": "12 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "OSHA, HSE, équipements électriques, sensibilisation aux risques, mise hors tension, LOTO",
+      "audience": "Université, école technique, intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation VR : Formation Sécurité et Santé au Travail.\nParticipez à des simulations immersives en VR pour la sécurité et la santé au travail.\nDécouvrez les programmes de formation XR axés sur la sécurité professionnelle.\nAméliorez vos compétences dans un environnement de réalité virtuelle pour un lieu de travail plus sûr.",
+      "videoalt": "Priorisez la sécurité électrique avec notre programme de formation VR innovant développé par Digital Engineering and Magic.\nConçu pour les ingénieurs et électriciens, ce programme met l’accent sur l’expérience pratique avec des équipements à taille réelle, et traite des comportements responsables de 90 % des accidents sur le terrain.\nL’expérience VR insiste sur les exigences en matière de sécurité électrique, incluant l’identification des risques, l’isolement de l’énergie, le câblage des locaux, les opérations sur tableaux électriques et l’utilisation correcte des équipements de protection individuelle.\nLes participants acquièrent une compréhension réaliste des exigences OSHA, leur permettant d’identifier et de réduire les risques électriques au travail.\nPlanifiez votre démo dès aujourd’hui pour révolutionner la formation à la sécurité des travailleurs à haut risque.",
+      "keywords": "Formation VR Sécurité au Travail, Santé et Sécurité en Électricité, Formation virtuelle conformité OSHA, Cours virtuel sécurité électrique, Formation VR identification des risques, Expérience VR normes HSE, Simulation VR sécurité en milieu professionnel, Formation manipulation équipements électriques, Formation VR LOTO, Programme VR isolement énergétique, Metaenga, formation VR, plateforme VR, XR, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1003": {
+      "linkid": "transformer-oil-sampling",
+      "name": "Échantillonnage d’Huile de Transformateur",
+      "shortname": "Échantillonnage d’Huile de Transformateur",
+      "category": "Procédure étape par étape",
+      "shortdescr": "Découvrez une méthode simple pour effectuer la maintenance préventive grâce à l’échantillonnage d’huile de transformateur.",
+      "descr": "Lors de la formation, les participants doivent réaliser une procédure de maintenance préventive — l’échantillonnage d’huile de transformateur. Ils sont invités à rassembler les outils nécessaires et à suivre étape par étape la procédure d’échantillonnage pour un transformateur de classe 110 kV.",
+      "briefdescr": "Travail terrain : échantillonnage d’huile de transformateur.",
+      "duration": "20 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "EPI, transformateurs de puissance, sécurité au travail, méthode d’échantillonnage d’huile",
+      "audience": "Université, école technique, intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation à l’échantillonnage d’huile de transformateur. Apprenez les techniques appropriées pour prélever de l’huile de transformateur grâce à une formation immersive en VR. Améliorez vos compétences dans la collecte sûre et efficace d’échantillons d’huile de transformateur. Découvrez les programmes de formation XR pour la maintenance des transformateurs et l’analyse d’huile.",
+      "videoalt": "Transformez votre approche de la maintenance des transformateurs de puissance grâce à notre programme de formation VR développé par Digital Engineering and Magic. Apprenez les compétences essentielles pour l’échantillonnage d’huile de transformateur, y compris les procédures appropriées, l’utilisation des équipements de protection et l’organisation du poste de travail. Le suivi régulier de l’état de l’huile est crucial pour détecter précocement les problèmes. Notre formation immersive assure un apprentissage étape par étape, combinant guidage audio et visuel pour une intégration réussie. Acquérez des compétences en maintenance des transformateurs et appliquez-les en toute confiance. Planifiez votre démo VR dès aujourd’hui pour renforcer votre expertise dans les réseaux de transmission et distribution électrique.",
+      "keywords": "Formation VR Échantillonnage d’huile de transformateur, Maintenance de transformateurs en réalité virtuelle, Cours techniques d’échantillonnage d’huile, Analyse d’huile pour transformateurs de puissance, Formation maintenance préventive électrique, Procédure d’échantillonnage VR, Surveillance de l’état des transformateurs, Formation sécurité postes électriques, Formation VR équipements de protection individuelle, Formation transformateurs haute tension, Metaenga, formation VR, plateforme VR, XR, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1007": {
+      "linkid": "vr-training-warehouse-operations-picking",
+      "name": "Opérations d’Entrepôt et Préparation de Commandes",
+      "shortname": "Expérience de Formation en Entrepôt",
+      "category": "Transport, chaîne d’approvisionnement",
+      "shortdescr": "La formation VR en entrepôt enseigne les opérations d’entrepôt, en particulier le rôle du préparateur de commandes, dans un environnement immersif et sécurisé.",
+      "descr": "La formation VR offre une expérience d’apprentissage sûre et immersive pour ceux qui souhaitent se former aux opérations d’entrepôt et à la préparation de commandes. Grâce à la VR, les apprenants peuvent naviguer et interagir en toute sécurité avec des équipements modernes tout en comprenant la séquence des opérations.",
+      "briefdescr": "Expérience d’apprentissage pour les opérations d’entrepôt.",
+      "duration": "10 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Logistique, stockage",
+      "audience": "Intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Simulation en réalité virtuelle d’un environnement d’entrepôt, mettant en scène un travailleur portant un gilet de sécurité orange et un pantalon bleu, debout à côté d’un tapis roulant bleu. Des cartons sont soigneusement empilés sur des étagères hautes en arrière-plan, illustrant un scénario de formation aux opérations d’entrepôt et à la préparation de commandes. Le cadre VR offre un environnement réaliste pour permettre aux apprenants de découvrir la chaîne d’approvisionnement et de pratiquer en toute sécurité le rôle de préparateur dans un environnement immersif et contrôlé.",
+      "videoalt": "",
+      "keywords": "Formation VR Opérations d’Entrepôt, Cours VR Préparateur de Commandes, Simulation VR d’Entrepôt, Éducation VR Chaîne d’Approvisionnement, Formation Interactive à la Préparation en Entrepôt, Formation VR en Opérations Logistiques, Sécurité et Efficacité en Entrepôt en VR, Réalité Virtuelle dans le Transport et le Stockage, Formation VR aux Équipements Modernes d’Entrepôt, Cours VR sur le Processus et les Techniques de Préparation, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1008": {
+      "linkid": "vr-training-heat-shrink-cable-joint",
+      "name_0": "Manchon Thermo-Rétractable pour Câble",
+      "name_1": "",
+      "shortname": "Manchon Thermo-Rétractable pour Câble",
+      "category": "Haute tension, procédure étape par étape",
+      "shortdescr": "Cette formation VR vous familiarise avec la séquence et les règles d’installation des manchons de câblage.",
+      "descr": "Le manchon isolant thermo-rétractable haute tension, avec une technologie à trois couches, connecte les câbles en assurant l’égalisation du champ électrique. Pendant cette formation VR, vous pratiquerez la connexion des câbles isolés en polyéthylène réticulé à l’aide d’un manchon de câble.",
+      "briefdescr": "La séquence et les règles d’installation des manchons de câblage.",
+      "duration": "15 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "OSHA, HSE, équipements électriques, sensibilisation aux risques",
+      "audience": "Université, école technique, intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation VR Manchon Thermo-Rétractable JUPTH. Participez à une formation immersive en VR pour maîtriser les opérations de manchons thermo-rétractables. Améliorez vos compétences dans la configuration et la maintenance des manchons thermo-rétractables. Découvrez les programmes de formation XR pour des systèmes de manchons efficaces et fiables.",
+      "videoalt": "Formation VR Manchon Thermo-Rétractable JUPTH. Participez à une formation immersive en VR pour maîtriser les opérations de manchons thermo-rétractables. Améliorez vos compétences dans la configuration et la maintenance des manchons thermo-rétractables. Découvrez les programmes de formation XR pour des systèmes de manchons efficaces et fiables.",
+      "keywords": "Formation VR Manchon Thermo-Rétractable, Cours de Raccordement de Câbles Haute Tension, Formation VR en Installation de Câbles, Simulation de Raccordement Électrique, Formation Isolation en Polyéthylène Réticulé, Formation VR Équipements Électriques, Techniques d’Égalisation du Champ Électrique, Sensibilisation aux Risques VR pour le Raccordement, Tutoriel VR Raccordement Câbles Haute Tension, Sécurité Électrique et Raccordement, Formation Raccord ABB REF615, Metaenga, formation VR, plateforme VR, XR, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1009": {
+      "linkid": "mv-substation-transformer-isolating-training",
+      "name": "Formation VR Isolement Transformateur Poste MT",
+      "shortname": "Isolement Transformateur Poste",
+      "category": "Réseaux électriques & services publics, sécurité électrique",
+      "shortdescr": "Cette formation VR est conçue pour apprendre à isoler en toute sécurité un transformateur de poste moyenne tension pour maintenance.",
+      "descr": "Ce module de formation VR guide les apprenants à travers les opérations de poste : de l’entrée et de l’utilisation des EPI à la manipulation des équipements, autorisations, identification des appareils, tests, manœuvre des sectionneurs et disjoncteurs, jusqu’à la mise à la terre avec perche isolante et dispositifs LOTO.",
+      "briefdescr": "Opérations de poste, EPI et manœuvre des disjoncteurs.",
+      "duration": "15 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "EPI, transformateurs de puissance, sécurité au travail, manœuvre des sectionneurs et disjoncteurs à vide",
+      "audience": "Université, école technique, intégration des employés, électriciens et ingénieurs électriciens",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Module de formation VR pour l’isolement du transformateur de poste MT, présentant la manipulation des équipements et les procédures de sécurité avec EPI. Inclut un transformateur, une perche isolante et la mise à la terre protectrice dans un environnement de poste électrique.",
+      "videoalt": "",
+      "keywords": "Formation VR Isolement Transformateur Poste MT, Isolement Transformateur de Poste, Réseaux électriques & services publics, Formation sécurité électrique, EPI (équipements de protection individuelle), manipulation des équipements, autorisations, identification des appareils, tests, manœuvre des sectionneurs, disjoncteurs, mises à la terre protectrices, perche isolante, dispositifs LOTO (Lockout Tagout), module de formation VR, sécurité électrique, transformateurs de puissance, sécurité au travail, disjoncteurs à vide, joueur unique, norme UE, voix off, formation universitaire, école technique, intégration des employés, électriciens, ingénieurs électriciens, Quest 2, Quest 3, Quest Pro, Pico 4, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1011": {
+      "linkid": "vr-training-fire-safety",
+      "name": "Sécurité Incendie et Intervention d’Urgence",
+      "shortname": "Sécurité Incendie et Intervention d’Urgence",
+      "category": "Formation à la sécurité incendie, procédure étape par étape",
+      "shortdescr": "Plongez-vous dans le module de formation VR Sécurité incendie et intervention d’urgence et apprenez à agir rapidement et efficacement.",
+      "descr": "Découvrez notre formation VR Sécurité incendie et intervention d’urgence pour développer des compétences réelles de réponse aux incendies dans un environnement VR sûr et contrôlé. Guidé par une voix hors écran, vous ferez face à des situations d’urgence et utiliserez les équipements nécessaires pour assurer votre sécurité.",
+      "briefdescr": "Apprenez à agir rapidement et efficacement avec la VR.",
+      "duration": "15 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Comprendre les protocoles d’intervention d’urgence, prendre des décisions sous pression",
+      "audience": "Employés de bureau, centres de formation professionnelle, équipes d’intervention d’urgence",
+      "modes": "Utilisateur unique",
+      "assessment": "Évaluation incluse",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Main virtuelle utilisant un extincteur pour éteindre un feu dans un bureau lors d’une formation VR à la sécurité incendie, démontrant l’utilisation pratique des équipements de lutte contre l’incendie dans un scénario d’urgence simulé.",
+      "videoalt": "Cette vidéo présente un module de formation immersive en VR sur la sécurité incendie et l’intervention d’urgence en milieu de bureau. La vidéo montre la procédure étape par étape pour utiliser un extincteur, depuis la prise de l’extincteur, le retrait du sceau et de la goupille, jusqu’à l’extinction des flammes. L’utilisateur interagit avec l’environnement virtuel, vivant un scénario d’incendie simulé avec flammes et fumée, pour développer des compétences réelles en réponse aux incendies. Cette formation VR met en lumière l’importance d’agir rapidement et efficacement lors d’une urgence incendie et de bien utiliser les équipements de secours. La formation est conçue pour aider les employés de bureau, les centres de formation professionnelle et les équipes d’intervention d’urgence à comprendre les protocoles d’urgence et à prendre des décisions sous pression.",
+      "keywords": "Formation VR sécurité incendie, Formation Sécurité Incendie et Intervention d’Urgence, Module de formation sécurité incendie, Formation VR intervention d’urgence, Compétences de réponse aux incendies en VR, Procédure de formation sécurité incendie, Expérience VR sécurité incendie, Formation VR intervention d’urgence, Formation protocoles sécurité incendie, Formation immersive sécurité incendie, Formation VR équipements d’urgence, Module VR sécurité incendie, Formation réelle à la réponse incendie, Formation en environnement VR sécurisé, Simulation VR sécurité incendie, Formation VR pour employés de bureau, Formation professionnelle sécurité incendie, Formation équipes d’intervention d’urgence, Évaluation sécurité incendie VR, Formation VR incendie joueur unique, Norme UE formation VR sécurité incendie, Voix off formation sécurité incendie VR, Formation prise de décision sous pression, Formation sécurité incendie pour Quest 2, Quest 3, Quest Pro, Pico 4, Formation sécurité incendie en anglais, Formation sécurité incendie standard, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1013": {
+      "linkid": "vr-training-motor-operator-uncoupling-procedure",
+      "name_0": "Découplage de l’Actionneur Motorisé",
+      "name_1": "",
+      "shortname": "Découplage de l’Actionneur Motorisé",
+      "category": "Réseaux électriques & services publics, formation sécurité électrique",
+      "shortdescr_0": "Guide VR étape par étape pour découpler un opérateur moteur Cleaveland Price ",
+      "shortdescr_1": "avec les procédures appropriées de sécurité et de communication.",
+      "descr": "Ce module VR enseigne comment découpler correctement un interrupteur à rupture d’air motorisé Cleaveland Price. Il inclut la sélection des EPI, la vérification de l’appareil, la communication en 3 étapes, les étapes mécaniques de découplage, et la sécurisation de l’interrupteur pour éviter toute mise en marche accidentelle.",
+      "briefdescr": "Découplage VR Interrupteur Motorisé Cleaveland Price.",
+      "duration": "15-20 min",
+      "features_0": "Joueur unique",
+      "features_1": "NFPA 70E",
+      "features_2": "Voix off",
+      "objectives": "EPI, sécurité au travail, communication, découplage, LOTO",
+      "audience": "Intégration des employés, électriciens et ingénieurs électriciens",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Carte de formation pour le module VR Découplage d’opérateur moteur montrant un camion utilitaire garé à côté d’un interrupteur motorisé vertical dans un poste désertique.",
+      "videoalt": "Cette vidéo promotionnelle présente les étapes clés de la formation VR sur le découplage de l’interrupteur motorisé Cleaveland Price, incluant la sélection des EPI, la vérification de l’identifiant de l’interrupteur, l’initiation de la communication en trois parties avec l’opérateur système, l’inspection de la position de l’interrupteur, le déverrouillage et l’ouverture de l’armoire MOD, la manipulation de la barre de commande, le découplage physique du mécanisme, l’application du verrouillage et de la carte de consignation, ainsi que la confirmation de la procédure en toute sécurité — mettant en avant la précision des procédures, le réalisme sur le terrain et la conformité aux normes GRE des services publics.",
+      "keywords": "Cleaveland Price, opérateur moteur, formation appareillage, procédure de découplage, formation en réalité virtuelle, formation services publics, sécurité en poste électrique, vérification de la position de l’interrupteur, consignation, formation EPI, haute tension, sécurité électrique, opérations sur le terrain, opérateur système, ordre de consignation, procédure de manœuvre, inspection de mise à la terre, formation technicien services publics"
+    },
+    "1016": {
+      "linkid": "vr-training-forklift-inspection",
+      "name_0": "Inspection Préalable Du Chariot Élévateur",
+      "name_1": "",
+      "shortname": "Inspection Préalable Du Chariot Élévateur",
+      "category": "Logistique, entrepôt",
+      "shortdescr": "Formation VR inspection chariot élévateur : pratique détaillée et sans risque avec retour instantané pour un contrôle complet avant utilisation.",
+      "descr": "La formation VR pour l’inspection préalable du chariot élévateur offre une expérience immersive et détaillée. Visualisez et interagissez avec le chariot sous tous les angles. Les erreurs sont sans risque, permettant aux apprenants de s’exercer sans conséquences réelles. Le système fournit un retour instantané en signalant les points d’inspection oubliés.",
+      "briefdescr": "Pratique sans risque pour des contrôles complets avant utilisation.",
+      "duration": "20 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Sensibilisation aux risques, inspection préalable",
+      "audience": "Intégration des employés, opérateurs",
+      "modes": "Utilisateur unique",
+      "assessment": "Évaluation incluse",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Une modélisation numérique d’un chariot élévateur jaune et noir dans un environnement de réalité virtuelle, posé sur un sol en béton. Le chariot est représenté avec ses bras de fourche abaissés, devant un entrepôt où l’on aperçoit en arrière-plan des palettes vertes et rouges empilées, suggérant un scénario de formation industrielle ou logistique.",
+      "videoalt": "Partez pour un parcours complet de formation à l’inspection préalable du chariot élévateur grâce à notre expérience immersive en réalité virtuelle. Cette vidéo offre un guide détaillé et étape par étape pour inspecter et utiliser un chariot élévateur en toute sécurité. Conçue pour les débutants comme pour les opérateurs expérimentés, elle permet d’apprendre à son rythme et de développer une compréhension approfondie de la sécurité et de l’utilisation du chariot élévateur.",
+      "keywords": "Formation VR Inspection Préalable Chariot Élévateur, Formation VR Sécurité Chariot Élévateur, Cours VR Conduite Chariot Élévateur, Simulation Inspection Chariot, Formation VR Équipements d’Entrepôt, Programme Interactif de Formation Chariot, Sensibilisation aux Risques en Conduite de Chariot, Évaluation VR Opérateur Chariot, Formation VR Logistique, Pratique Sans Risque en VR, Royaume-Uni, USA, Australie, Singapour"
+    },
+    "1018": {
+      "linkid": "motor-control-center-loto-and-troubleshooting",
+      "name": "Dépannage du Centre de Commande Moteur",
+      "shortname": "Centre de Commande Moteur",
+      "category": "Sécurité électrique",
+      "shortdescr_0": "Ce module de formation VR respecte les normes NFPA 70E et OSHA en vous guidant à travers des scénarios réels ",
+      "shortdescr_1": "de dépannage MCC et d’application correcte des EPI.",
+      "descr": "Cette expérience unique de dépannage du Centre de Commande Moteur vous plonge dans des scénarios réels liés à la sécurité MCC, au dépannage et à l’utilisation appropriée des EPI, le tout dans un environnement sans risque. Conçu pour respecter les normes NFPA 70E et OSHA.",
+      "briefdescr": "Scénarios de sécurité des CCM basés sur la norme NFPA 70E.",
+      "duration": "20 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Tests Live-Dead-Live, protection contre les arcs électriques, sécurité MCC, EPI, consignation (LOTO)",
+      "audience": "Formateurs et professionnels HSE, électriciens et ingénieurs électriciens",
+      "modes": "Utilisateur unique",
+      "assessment": "Évaluation incluse",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Dépannage de centre de commande de moteurs en environnement VR, présentant des panneaux électriques, des étiquettes de sécurité et une boîte à outils pour la formation à la sécurité électrique.",
+      "videoalt": "",
+      "keywords": "Dépannage de centre de commande de moteurs, Centre de commande de moteurs, Formation à la sécurité électrique, Dépannage MCC, Conformité NFPA 70E, Normes OSHA, Formation VR à la sécurité électrique, Dépannage MCC en VR, Application des EPI, Protection contre les arcs électriques, Procédures de cadenassage, Formation HSE, Module VR de sécurité électrique, Formation à la sécurité MCC, Formation VR sans risque, Scénarios MCC réels, Formation VR pour électriciens, Formation pour ingénieurs électriciens, Formation VR en solo, Formation VR conforme aux normes européennes, Formation VR avec voix off, Tests Live-Dead-Live, Formation VR avec évaluation incluse, Formation VR pour Quest 2, Formation VR pour Quest 3, Formation VR pour Quest Pro, Formation VR pour Pico 4, Formation VR en anglais, Formation conforme aux normes, Royaume-Uni, États-Unis, Australie, Singapour."
+    },
+    "1019": {
+      "linkid": "vr-training-vehicle-spotting-hand-signal",
+      "name_0": "Guidage de Véhicules ",
+      "name_1": "et Signaux Manuels",
+      "shortname": "Guidage de Véhicules et Signaux Manuels",
+      "category": "Sécurité sur les chantiers",
+      "shortdescr_0": "Apprenez et entraînez-vous aux signaux manuels utilisés sur les chantiers ",
+      "shortdescr_1": "avec une réponse en temps réel des véhicules et une évaluation basée sur la performance.",
+      "descr": "Cette formation en réalité virtuelle couvre les signaux manuels standards de guidage de véhicules utilisés sur les chantiers. Elle inclut un entraînement en miroir avec un instructeur PNJ ainsi qu’un mode d’évaluation en temps réel où vous guidez des véhicules à l’aide de gestes naturels.",
+      "briefdescr": "Apprenez et entraînez-vous aux signaux manuels de chantier.",
+      "duration": "15–20 minutes",
+      "features_0": "Signaux manuels",
+      "features_1": "Reconnaissance de gestes",
+      "features_2": "Voix off",
+      "objectives": "Gestes de guidage, signaux en miroir avec instructeur",
+      "audience": "Travailleurs du BTP, opérateurs d'engins lourds",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation VR \"Guidage de véhicules et signaux manuels\" – guidez des véhicules lourds à l’aide de gestes standardisés dans une simulation immersive de chantier.",
+      "videoalt": "Cette vidéo présente des séquences tirées directement de la formation, notamment la sélection des types de véhicules via des widgets interactifs, l’imitation des signaux manuels standardisés démontrés par un instructeur PNJ, le guidage de véhicules en temps réel à l’aide de gestes, ainsi que l’observation de leurs réactions dans l’environnement virtuel. Un petit avatar en direct dans le coin inférieur reflète les mouvements de l’apprenant, soulignant l’interaction corporelle complète et un fort sentiment d’immersion tout au long de l’expérience.",
+      "keywords": "Repérage de véhicules et signaux manuels, formation VR au repérage de véhicules, formation virtuelle aux signaux manuels, simulation de guide au sol, guidage de véhicules VR, formation à la sécurité sur chantier, guidage virtuel de véhicules, formation aux signaux de repérage, simulation immersive en VR, signaux manuels pour véhicules lourds, formation de signaleur en réalité virtuelle, contrôle de véhicules au sol en VR, simulateur de repérage de véhicules, formation au guidage de camions, formation à la sécurité gestuelle, déplacement de véhicules industriels, formation VR à la communication conducteur, repérage de jour et de nuit, système virtuel de formation des signaleurs, simulation réaliste de guidage."
+    },
+    "1021": {
+      "linkid": "digital-multimeter-basics",
+      "name": "Notions de Base du Multimètre Numérique",
+      "shortname": "Notions de Base du Multimètre Numérique",
+      "shortdescr_0": "Cette formation en réalité virtuelle permet une maîtrise pratique et précise de l’utilisation sécurisée ",
+      "shortdescr_1": "du multimètre et des techniques d’identification de défauts, basée sur le modèle Fluke 87v.",
+      "category": "Sécurité électrique",
+      "descr": "Cette formation VR couvre les bonnes pratiques de mesure électrique en toute sécurité, en se basant sur l’utilisation du multimètre Fluke 87v. Elle met l’accent sur les catégories de sécurité CAT, le bon réglage des cordons de test et le dépannage des démarreurs de moteur.",
+      "briefdescr": "Mesure électrique avec multimètre Fluke 87v.",
+      "duration": "40–55 min",
+      "features_0": "Un seul utilisateur",
+      "features_1": "Norme européenne",
+      "features_2": "Voix off",
+      "objectives": "Tests Live-Dead-Live, protection contre les arcs électriques, sécurité MCC, EPI",
+      "audience": "Étudiants, électriciens et ingénieurs électriciens",
+      "modes": "Utilisateur unique",
+      "assessment": "Évaluation incluse",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation VR Bases Multimètre Numérique basée sur Fluke 87v",
+      "videoalt": "",
+      "keywords": "Formation VR, Formation XR, Plateforme XR, Fluke 87v en VR, Formation VR pour électriciens, Formation électrique en réalité virtuelle"
+    },
+    "1023": {
+      "linkid": "megger-relay-and-ct-test-set",
+      "name_0": "Megger Relay y Set ",
+      "name_1": "de Pruebas CT",
+      "shortname": "Megger Relay y Set de Pruebas CT",
+      "category": "Baja Tensión y Servicios Públicos",
+      "shortdescr_0": "Guía VR personalizada completa para el Megger Relay y la Unidad de Pruebas de ",
+      "shortdescr_1": "Transformador de Corriente (MRCT) con información detallada y procedimientos de prueba.",
+      "descr": "Guide VR du MRCT, avec explications vocales détaillées et animations pour aider aux connexions et tests, incluant des explications vocales précises et des animations en transparence offrant une représentation claire de la physique des champs magnétiques.",
+      "briefdescr": "Guía compleja en VR con voz en off y animaciones educativas.",
+      "duration": "20 min",
+      "features_0": "Joueur unique",
+      "features_1": "LOTO",
+      "features_2": "Voix off",
+      "objectives": "Relais, Données techniques, Champs magnétiques",
+      "audience": "Université, École professionnelle, Intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Formation VR Megger Relay et CT Test Set.",
+      "videoalt": "Vidéo ou exploration du monde innovant de la formation VR avec notre présentation de l’unité de test Megger Relay et Transformateur de Courant (MRCT).",
+      "keywords": "Formation VR, Formation XR, Plateforme XR, Megger, MRCT, Testeur CT, Test de relais, Transformateur de courant, Tests électriques, Systèmes électriques, Équipement de test, Test de poste, Relais de protection, Transformateurs d’instrumentation, Test basse tension, Test d’injection secondaire, Test de ratio CT, Test de polarité CT, Courbe d’excitation CT, Simulation de circuit, Test de transformateur, Résistance d’isolation, Mesure de résistance, Visualisation des champs magnétiques"
+    },
+    "1027": {
+      "linkid": "industrial-electrical-isolation-lockout",
+      "name": "Isolation Énergétique Industrielle & LOTO",
+      "shortname": "Isolation Énergétique Industrielle & LOTO",
+      "category": "Sécurité Électrique",
+      "shortdescr": "Module de formation VR en auto-apprentissage sur l’isolation électrique et mécanique industrielle ainsi que le cadenassage (Lockout-Tagout).",
+      "descr": "Cette formation VR auto-dirigée offre une expérience pratique et ciblée sur la mise en œuvre des procédures d’isolation électrique et mécanique, ainsi qu’une compréhension approfondie des protocoles de sécurité LOTO, OSHA et HSE.",
+      "briefdescr": "Pratiquez le cadenassage sécurisé en milieu industriel.",
+      "duration": "20 min",
+      "features_0": "Guidage interactif",
+      "features_1": "Auto-apprentissage",
+      "objectives": "Protocoles de sécurité, LOTO, Isolation mécanique, Isolation électrique, Communication efficace",
+      "audience": "Techniciens et ingénieurs électriciens, professionnels de la maintenance",
+      "modes": "Utilisateur unique",
+      "assessment": "Évaluation incluse",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Sol industriel simulé avec machines, rayonnages et zones de sécurité — utilisé comme écran titre pour la formation VR Cadenassage (LOTO).",
+      "videoalt": "Parcours VR à la première personne pour la formation Isolation et Cadenassage en usine. L’utilisateur reçoit des instructions, se déplace sur le site, effectue des arrêts d’urgence, coupe l’alimentation des équipements, applique les dispositifs LOTO, vérifie l’absence de tension et délimite les zones d’arc électrique — le tout en portant les EPI appropriés.",
+      "keywords": "Formation cadenassage (LOTO), LOTO en VR, isolation électrique, isolation mécanique, formation sécurité en usine, module VR sécurité, formation industrielle en VR, simulation EPI, formation VR 480V, formation arc électrique, sécurité maintenance, cadenassage en réalité virtuelle, procédure LOTO, formation conformité VR, simulation arrêt équipement, formation sécurité VR solo, formation VR pour Quest 2, Quest 3, Quest Pro, Pico 4, USA"
+    },
+    "1030": {
+      "linkid": "vr-training-work-at-height",
+      "name_0": "Travail en Hauteur",
+      "name_1": "",
+      "shortname": "Travail en Hauteur",
+      "category": "Sécurité sur Chantier, Sécurité au Travail",
+      "shortdescr_0": "Pratiquez le travail en hauteur en toute sécurité: inspection des EPI, montée sur échafaudages, fixation ",
+      "shortdescr_1": "des points d’ancrage  et installation de systèmes de poulies avec guidage complet des procédures.",
+      "descr": "Cette formation VR accompagne les utilisateurs dans la montée sécurisée sur échafaudages, la fixation des points d’ancrage et l’installation de poulies en hauteur. Comprend l’inspection des EPI, l’utilisation d’ascenseurs de poitrine, de lignes de vie horizontales et de systèmes de retenue. Instructions pas à pas pour assurer la conformité aux procédures.",
+      "briefdescr": "Formation VR sécurité : montée sécurisée sur échafaudage.",
+      "duration": "15-20 min",
+      "features_0": "Joueur unique",
+      "features_1": "Protection contre les chutes",
+      "features_2": "Voix off",
+      "objectives": "Inspection des EPI, montée sur échafaudage, installation de poulie de sécurité",
+      "audience": "Ouvriers du bâtiment, monteurs d’échafaudage, techniciens utilitaires",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Ouvrier du bâtiment sécurisé au sommet d’un échafaudage avec poulie de sécurité en vue — utilisé comme écran titre pour la formation VR Travail en Hauteur.",
+      "videoalt": "Vivez l’expérience complète de l’utilisation sécurisée d’un échafaudage grâce à notre vidéo promo immersive de la formation VR Travail en Hauteur — commencez au niveau du sol par l’inspection des EPI et l’équipement à l’atelier, puis montez les niveaux d’échafaudage avec ascenseurs de poitrine et longes à double branche tout en maintenant une fixation à 100 %, traversez des lignes de vie horizontales, et atteignez enfin le dernier étage où votre instructeur virtuel vous guidera pour appliquer un système de retenue et installer une poulie de sécurité. Conçue pour simuler les risques réels et bonnes pratiques du chantier en matière de protection contre les chutes, cette vidéo illustre les moments d’apprentissage pratiques préparant les travailleurs à la sécurité en hauteur.",
+      "keywords": "Formation Travail en Hauteur, Formation Sécurité VR, Formation échafaudage en réalité virtuelle, Simulation Protection Anti-Chute, Chantier en VR, Cours Sécurité en Hauteur, Formation VR pour ouvriers du bâtiment, Sécurité échafaudage VR, Formation inspection EPI, Simulation Sécurité escalade, Formation arrêt de chute virtuelle, Formation immersive sécurité, Sécurité chantier VR, Certification Travail en Hauteur, Sensibilisation aux risques VR, Sécurité au travail VR, Simulation échafaudage réaliste, Formation harnais de sécurité, Formation virtuelle pour travailleurs en hauteur, Formation escalade de tours VR"
+    },
+    "2002": {
+      "linkid": "vr-training-helicopter-landing-officer-experience",
+      "name": "Officier d’Atterrissage Hélicoptère VR",
+      "shortname": "Formation Atterrissage Hélicoptère",
+      "category": "Militaire",
+      "shortdescr": "Cette formation VR plonge les officiers d’atterrissage hélicoptère (HLO) et les pilotes dans un environnement réaliste et sécurisé pour maîtriser l’atterrissage de l’AH-64 Apache.",
+      "descr": "La formation est spécifiquement conçue pour offrir un cadre pratique et immersif afin de former les HLO et pilotes à l’atterrissage de l’AH-64 Apache dans diverses conditions. Cette formation immersive améliore la prise de décision et favorise la coordination entre pilote et officier d’atterrissage.",
+      "briefdescr": "Formation pour maîtriser l’atterrissage de l’AH-64 Apache.",
+      "duration": "10 min",
+      "features_0": "Joueur unique",
+      "features_1": "Norme UE",
+      "features_2": "Voix off",
+      "objectives": "Procédure d’atterrissage hélicoptère",
+      "audience": "Intégration des employés",
+      "modes": "Utilisateur seul",
+      "assessment": "Sans évaluation",
+      "available": "Quest 2, Quest 3, Quest Pro, Pico 4",
+       "languages": "English, Português, Українська, Deutsch, Español, Polski, Français",
+      "plan": "Standard",
+      "cardalt": "Simulation de réalité virtuelle d’un hélicoptère militaire AH-64 Apache stationné sur un héliport en béton. Le scénario se déroule en plein air sous un ciel dégagé, conçu pour la formation VR des officiers d’atterrissage hélicoptère et des pilotes. L’environnement offre un cadre réaliste pour maîtriser les techniques d’atterrissage sécurisé et la coordination dans diverses conditions, en mettant l’accent sur l’amélioration des compétences de prise de décision et la promotion d’une collaboration efficace entre pilotes et officiers.",
+      "videoalt": "",
+      "keywords": "Formation Officier d’Atterrissage Hélicoptère VR, Simulation d’Atterrissage AH-64 Apache, Formation Hélicoptère en Réalité Virtuelle, Expérience Hélicoptère Militaire VR, Formation Coordination Pilote-Officier, Programme VR d’Atterrissage Hélicoptère Réaliste, Formation Immersive Pilote Hélicoptère, Compétences de Prise de Décision en Aviation VR, Formation Procédure d’Atterrissage Hélicoptère, Formation Virtuelle pour Officiers d’Atterrissage, UK, USA, Australie, Singapour"
+    },
+    "button": "En savoir plus",
+    "planFree": "Démo gratuite",
+    "planSubscribe": "S’abonner"
+  },
+  "Footer": {
+    "ariaLabel_0": "Link href Instagram",
+    "ariaLabel_1": "Link href Youtube",
+    "ariaLabel_2": "Link href Twitter",
+    "ariaLabel_3": "Link href LinkedIn",
+    "download": "Télécharger la plateforme",
+    "privacy": "Confidentialité",
+    "cookie": "Cookies",
+    "terms": "Conditions d’utilisation",
+    "EULA": "CLUF ",
+    "DPA": "DPA",
+    "DMCA": "DMCA ",
+    "office_0": "Bureau principal",
+    "country_0": "United States",
+    "address_0": " 1111b South Governors Avenue",
+    "city_0": "Dover, Delaware, 19904",
+    "office_1": "Bureau Tech",
+    "country_1": "Ukraine",
+    "address_1": "6G rue Trostyanetska, Kyiv, 02091",
+    "incorporated": "© 2025 – Metaenga, Inc.",
+    "quest": "Pour Quest",
+    "pico": "Pour Pico",
+    "altUSA": "Flag USA",
+    "altUkraine": "Flag Ukraine"
+  },
+  "Header": {
+    "menu_0": "Bibliothèque VR",
+    "menu_1": "Tarifs",
+    "menu_2": "À propos",
+    "menu_3": "Contact",
+    "menu_4": "Étude de cas",
+    "menu_5": "Connexion",
+    "menu_6": "Démo",
+    "menuBurger_0": "Aperçu",
+    "menuBurger_1": "Obtenir une démo"
+  },
+  "VRLibrary": {
+    "metadataTitle": "Bibliothèque de formation VR pour entreprises | Programmes de sécurité XR",
+    "metadataDescription": "Bibliothèque de formation VR pour améliorer les programmes de sécurité dans les secteurs Énergie, Pétrole et Gaz, Utilités et Industries sous plateforme XR",
+    "title": "Bibliothèque de formation VR",
+    "button": "En savoir plus",
+    "plabChips_0": "standard",
+    "plabChips_1": "exclusive",
+    "openGraph": {
+      "title": "Bibliothèque de Formation VR pour Entreprises | Programmes de Sécurité XR",
+      "description": "Bibliothèque de Formation VR pour Améliorer les Programmes de Sécurité dans les Secteurs Électrique, Pétrolier et Gazier, Utilités et Industries sous Plateforme XR",
+      "locale": "fr_FR"
+    }
+  },
+  "PromoTraining": {
+    "button_0": "Débloquer les modules",
+    "description_0": "À partir de",
+    "description_1": "pour un accès complet/casque",
+    "button_1": "Obtenir la formation",
+    "description_2": "pour 1 module/casque",
+    "pdf": "Télécharger PDF",
+    "planChips": "Démo gratuite",
+    "button_2": "Inscrivez-vous pour la démo"
+  },
+  "Overview": {
+    "title": "Aperçu de la formation"
+  },
+  "TrainingDetails": {
+    "title": "Détails de la formation",
+    "textBody": "Présentation de la formation VR",
+    "buttonPDF": "Télécharger PDF",
+    "attribute_0": "Catégorie",
+    "attribute_1": "Objectifs d’apprentissage",
+    "attribute_2": "Public cible",
+    "attribute_3": "Durée",
+    "attribute_4": "Évaluation et retours",
+    "attribute_5": "Disponible sur",
+    "attribute_6": "Langues",
+    "attribute_7": "Inclus dans le forfait",
+    "attribute_8": "Démo gratuite",
+    "attribute_9": "Forfaits Standard et Entreprise",
+    "attribute_10": "Modes de formation",
+    "attribute_11": "Fonctionnalités"
+  },
+  "gettingStarted": {
+    "title": "Premiers pas",
+    "step_0": "1. Téléchargez l’app VR",
+    "description_0": "Téléchargez l’app Metaenga VR sur votre casque ",
+    "description_1": "ou",
+    "step_1": "2. Connectez-vous",
+    "description_2": "Ouvrez Metaenga sur votre casque ",
+    "description_3": "et connectez-vous.",
+    "step_2": "3. S’entraîner",
+    "description_4": "Accédez à l’onglet Formation VR.",
+    "description_5": "Lancez la formation sécurité VR."
+  },
+  "Gallery": {
+    "title": "Galerie"
+  },
+  "moreModules": {
+    "title": "Découvrez plus de modules VR"
+  },
+  "Pricing": {
+    "Metadata": {
+      "title": "Metaenga | Tarifs",
+      "description": "Bibliothèque de formations VR pour améliorer les programmes de sécurité dans l’industrie électrique, pétrolière, gazière, et les entreprises industrielles via la plateforme XR.",
+      "locale": "fr_FR"
+    },
+    "Calculator": {
+      "Flex": {
+        "title": "Flex",
+        "subname": "Accès à un module VR unique",
+        "currentValute": "$",
+        "caption": [
+          "Choisissez des modules de formation",
+          "pour une offre personnalisée"
+        ],
+        "details": [
+          "Modules VR sélectionnés",
+          "Bibliothèque immersive de vidéos 360",
+          "Analytique de sessions VR de base",
+          "Gestion des appareils",
+          "Support par email",
+          "Base de connaissances"
+        ]
+      },
+      "Standard": {
+        "title": "Standard",
+        "subname": "Plus de fonctionnalités accessibles",
+        "currentValute": "$",
+        "details": [
+          "Bibliothèque complète de formations VR",
+          "Téléversement de vidéos 360 et 2D (jusqu’à 2 Go)",
+          "Formations & mises à jour à venir",
+          "Utilisateurs illimités dans l’organisation",
+          "Salles de classe : sessions de formation en groupe",
+          "Analytique détaillée des sessions VR"
+        ]
+      },
+      "Enterprise": {
+        "title": "Enterprise",
+        "subname": "Performances complexes & support",
+        "caption": [
+          "Contactez-nous pour tarifs",
+          "et plus d’informations"
+        ],
+        "details": [
+          "Bibliothèque complète de formations VR",
+          "Utilisateurs illimités dans l’organisation",
+          "Tableau de bord des insights organisationnels",
+          "Intégration xAPI",
+          "Support prioritaire",
+          "Gestionnaire de compte dédié"
+        ]
+      },
+      "annualy": "facturation annuelle",
+      "billingPeriodLabelStandard": "par casque/mois",
+      "billingChips": "facturation annuelle",
+      "billingPeriodLabelEnterprise": "module/casque/mois",
+      "numberOfHeadsets": "Nombre de casques",
+      "headsets": "casques",
+      "period": "/mois",
+      "limitWarning_0": "Vous pouvez acheter jusqu’à 150 places ici.",
+      "limitWarning_1": "Contactez-nous",
+      "limitWarning_2": "pour une licence plus importante.",
+      "flexButton": "Choisir modules",
+      "standardButton": "Obtenir Standard",
+      "enterpriseButton": "Contacter les ventes",
+      "totalPrice": "Prix total",
+      "year": "/an",
+      "monthly": "/par mois",
+      "saved": "Économies :",
+      "fullTrainingReports": "Rapports complets de formation",
+      "buyLimitWarning_0": "Jusqu’à 150 casques disponibles ici.",
+      "buyLimitWarning_1": "Contactez-nous",
+      "buyLimitWarning_2": "pour licences plus grandes.",
+      "subheader_0": "Choisissez",
+      "subheader_1": "votre",
+      "subheader_2": "plan d’abonnement",
+      "smallHeaderMouthly": "Facturé mensuellement",
+      "smallHeaderYearly": "Facturé annuellement",
+      "smallHeaderMouthlymob": "Mensuel",
+      "smallHeaderYearlymob": "Annuel",
+      "yearlySave": "Économisez 15 %"
+    }
+  },
+  "Table": {
+    "vrTrainingContent": {
+      "row1": {
+        "col1": "Bibliothèque de formations VR",
+        "col2": "Sélectionné",
+        "col3": "Complet",
+        "col4": "Complet"
+      },
+      "row2": {
+        "col1": "Bibliothèque immersive de vidéos 360"
+      },
+      "row3": {
+        "col1": "Disponible hors ligne"
+      },
+      "row4": {
+        "col1": "Téléchargement de vidéos 360, 2D",
+        "col3": "Jusqu’à 2 Go",
+        "col4": "Jusqu’à 100 Go"
+      },
+      "row5": {
+        "col1": "Formations & mises à jour à venir"
+      }
+    },
+    "accountExperience": {
+      "row1": {
+        "col1": "Nombre d’utilisateurs par organisation",
+        "col2": "Un",
+        "col3": "Illimité",
+        "col4": "Illimité"
+      },
+      "row2": {
+        "col1": "Salles de classe : sessions de formation en groupe"
+      },
+      "row3": {
+        "col1": "Ajouter logo de marque"
+      },
+      "row4": {
+        "col1": "Licence commerciale"
+      }
+    },
+    "analyticsAndReporting": {
+      "row1": {
+        "col1": "Analytique des sessions VR",
+        "col2": "Basique",
+        "col3": "Détaillée",
+        "col4": "Détaillée"
+      },
+      "row2": {
+        "col1": "Tableau de bord des insights organisationnels"
+      },
+      "row3": {
+        "col1": "Tableau de bord des insights personnels"
+      },
+      "row4": {
+        "col1": "Journaux d’audit des utilisateurs et appareils"
+      },
+      "row5": {
+        "col1": "Intégration xAPI"
+      }
+    },
+    "distributionManagement": {
+      "row1": {
+        "col1": "Gestion des appareils"
+      },
+      "row2": {
+        "col1": "Attribution des rôles utilisateurs"
+      },
+      "row3": {
+        "col1": "Rôles utilisateurs personnalisés"
+      },
+      "row4": {
+        "col1": "Groupes d’utilisateurs"
+      },
+      "row5": {
+        "col1": "Attribution de contenu VR"
+      },
+      "row6": {
+        "col1": "Attribution de vidéos 360"
+      },
+      "row7": {
+        "col1": "Déploiement de formations VR"
+      },
+      "row8": {
+        "col1": "Déploiement de vidéos 360 et 2D"
+      }
+    },
+    "security": {
+      "row1": {
+        "col1": "Sécurité niveau entreprise"
+      },
+      "row2": {
+        "col1": "Hébergement sécurisé"
+      },
+      "row3": {
+        "col1": "Authentification à deux facteurs"
+      },
+      "row4": {
+        "col1": "SSO portail web"
+      }
+    },
+    "supportAndBilling": {
+      "row1": {
+        "col1": "Support",
+        "col2": "Support par email",
+        "col3": "Support par email",
+        "col4": "Support par chat"
+      },
+      "row2": {
+        "col1": "Base de connaissances"
+      },
+      "row3": {
+        "col1": "Accès à la feuille de route produit & contenu"
+      },
+      "row4": {
+        "col1": "Support prioritaire"
+      },
+      "row5": {
+        "col1": "Accord de niveau de service (SLA)"
+      },
+      "row6": {
+        "col1": "Facturation personnalisée"
+      },
+      "row7": {
+        "col1": "Tarifs spécifiques par pays"
+      },
+      "row8": {
+        "col1": "Gestionnaire de compte dédié"
+      }
+    },
+    "vrTrainLib": {
+      "item1": {
+        "title": "1. Relais de Protection de Départ",
+        "linkid": "feeder-protection-relay"
+      },
+      "item2": {
+        "title": "2. Notions de Base du Multimètre Numérique",
+        "linkid": "digital-multimeter-basics",
+        "note": "Disponible séparément"
+      },
+      "item3": {
+        "title": "3. Dépannage du Centre de Commande Moteur",
+        "linkid": "motor-control-center-loto-and-troubleshooting",
+        "note": "Disponible séparément"
+      },
+      "item4": {
+        "title": "4. Échantillonnage d’Huile de Transformateur",
+        "linkid": "transformer-oil-sampling",
+        "note": "Disponible séparément"
+      },
+      "item5": {
+        "title": "5. Poste Électrique Haute Tension",
+        "linkid": "hv-electricaL-substation-training",
+        "note": "Disponible séparément"
+      },
+      "item6": {
+        "title": "6. Sécurité et santé au travail",
+        "linkid": "occupational-safety-and-health",
+        "note": "Disponible séparément"
+      },
+      "item7": {
+        "title": "7. Megger Relay y Set de Pruebas CT",
+        "linkid": "megger-relay-and-ct-test-set",
+        "note": "Disponible séparément"
+      },
+      "item8": {
+        "title": "8. Formation VR Isolement Transformateur Poste MT",
+        "linkid": "mv-substation-transformer-isolating-training",
+        "note": "Disponible séparément"
+      },
+      "item9": {
+        "title": "9. Manchon Thermo-Rétractable pour Câble",
+        "linkid": "vr-training-heat-shrink-cable-joint",
+        "note": "Disponible séparément"
+      },
+      "item10": {
+        "title": "10. Sécurité Incendie et Intervention d’Urgence",
+        "linkid": "vr-training-fire-safety",
+        "note": "Disponible séparément"
+      },
+      "item11": {
+        "title": "11. Inspection Préalable Du Chariot Élévateur",
+        "linkid": "vr-training-forklift-inspection",
+        "note": "Disponible séparément"
+      },
+      "item12": {
+        "title": "12. Opérations d’Entrepôt et Préparation de Commandes",
+        "linkid": "vr-training-warehouse-operations-picking",
+        "note": "Disponible séparément"
+      },
+      "item13": {
+        "title": "13. Officier d’Atterrissage Hélicoptère VR",
+        "linkid": "vr-training-helicopter-landing-officer-experience",
+        "note": "Disponible séparément"
+      },
+      "item14": {
+        "title": "14. Isolation Énergétique Industrielle & LOTO",
+        "linkid": "industrial-electrical-isolation-lockout",
+        "note": "Disponible séparément"
+      },
+      "item15": {
+        "title": "15. Travail en Hauteur",
+        "linkid": "vr-training-work-at-height",
+        "note": "Disponible séparément"
+      },
+      "item16": {
+        "title": "16. Guidage de Véhicules et Signaux Manuels",
+        "linkid": "vr-training-vehicle-spotting-hand-signal",
+        "note": "Disponible séparément"
+      },
+      "item17": {
+        "title": "17. Découplage de l’Actionneur Motorisé",
+        "linkid": "vr-training-motor-operator-uncoupling-procedure",
+        "note": "Disponible séparément"
+      }
+    },
+    "vrTrainLibTitle_0": "Comparer les forfaits",
+    "vrTrainLibTitle_1": "en détail",
+    "compareTable": {
+      "title_0": "Contenu de formation VR",
+      "title_1": "Expérience du compte",
+      "title_2": "Analyse et rapports",
+      "title_3": "Gestion de la distribution",
+      "title_4": "Sécurité",
+      "title_5": "Support & Facturation",
+      "title_6": "Bibliothèque de formations VR"
+    },
+    "GetVrAppBunner": {
+      "title_0": "Télécharger l’app et ",
+      "title_1": "commencer la formation",
+      "description_0": "Pour accéder à notre bibliothèque de formations VR de pointe,",
+      "description_1": "téléchargez la plateforme de formation XR Metaenga sur votre casque préféré.",
+      "descriptionMobile_0": "Commencez la formation ",
+      "descriptionMobile_1": "en téléchargeant l’app"
+    }
+  },
+  "ContactUs": {
+    "title": "Contactez-nous",
+    "description_0": "Échangez avec nous pour découvrir des solutions de formation XR adaptées ",
+    "description_1": "au développement professionnel dans votre organisation.",
+    "inc": "Metaenga Inc.",
+    "address_0": "1111b South Governors Avenue,",
+    "address_1": "Dover, Delaware, 19904, US",
+    "ariaLabelInstagram": "Link href Instagram",
+    "ariaLabelYoutube": "Link href Youtube",
+    "ariaLabelTwitter": "Link href Twitter",
+    "ariaLabelLinkedIn": "Link href LinkedIn",
+    "metadata": {
+      "title": "Metaenga | Contactez-nous",
+      "description": "Bibliothèque de formations VR pour renforcer les programmes de sécurité dans les secteurs de l’électricité, du pétrole et gaz, des services publics et de l’industrie via notre plateforme XR.",
+      "locale": "fr_FR"
+    },
+    "form": {
+      "name": "Nom complet*",
+      "email": "Email*",
+      "message": "Message",
+      "submit": "Envoyer",
+      "successMessage": "Merci pour votre intérêt ! Notre équipe vous contactera bientôt.",
+      "errorMessage": "Message non envoyé. Veuillez réessayer plus tard.",
+      "valedate": "Champ obligatoire",
+      "emailValidate": "Adresse e-mail invalide"
+    }
+  },
+  "AboutUs": {
+    "Metadata": {
+      "title": "Metaenga | À propos",
+      "description": "Bibliothèque de formations VR pour renforcer les programmes de sécurité dans les secteurs de l’électricité, du pétrole et gaz, des services publics et de l’industrie via notre plateforme XR.",
+      "locale": "fr_FR"
+    },
+    "Promo": {
+      "title_0": "Débloquer les connaissances.",
+      "title_1": "Assurer la sécurité.",
+      "textBody": "Metaenga Inc. – société américaine proposant une plateforme XR avec fonctionnalités LMS qui révolutionne le développement des compétences dans le secteur de l’énergie grâce à des solutions de formation VR en sécurité.",
+      "alt": "À propos"
+    },
+    "Mission": {
+      "alt": "À propos",
+      "title": "Vision et mission",
+      "textBody": "Nous accompagnons le développement des équipes en entreprise à travers des programmes immersifs de formation en VR et une plateforme XR. Notre ambition : devenir le leader de la formation professionnelle immersive pour les entreprises."
+    },
+    "Services": {
+      "title": "Nos services",
+      "alt": "À propos",
+      "cardHeaders": {
+        "header_0": "Plateforme de formation XR",
+        "text_0": "Logiciel cloud pour gérer du contenu immersif ",
+        "text_1": "à grande échelle au sein des entreprises.",
+        "header_1": "Développement de formations VR",
+        "text_2": "Conception de solutions de formation VR ",
+        "text_3": "en sécurité selon les besoins"
+      }
+    },
+    "Team": {
+      "Photo": {
+        "alt": "photo",
+        "title": "Membres "
+      },
+      "Cards": {
+        "card_0": {
+          "description": "de l’équipe"
+        },
+        "card_1": {
+          "description": "années d’expérience"
+        },
+        "card_2": {
+          "description": "projets réalisés"
+        },
+        "card_3": {
+          "description": "partenaires"
+        }
+      },
+      "Members": {
+        "member_0": {
+          "name": "Viacheslav",
+          "position": "PDG",
+          "lastname": "Budnyk"
+        },
+        "member_1": {
+          "name": "Pavlo",
+          "position": "Directeur technique / Ingénieur principal",
+          "lastname": "Kezlia"
+        },
+        "member_2": {
+          "name": "Stanislav",
+          "position": "Directeur des opérations",
+          "lastname": "Zakharchenko"
+        },
+        "member_3": {
+          "name": "Olena",
+          "position": "Responsable de la croissance",
+          "lastname": "Leonenko"
+        },
+        "member_4": {
+          "name": "Oleksander",
+          "position": "Développeur Full Stack",
+          "lastname": "Demchenko"
+        },
+        "member_5": {
+          "name": "Polina",
+          "position": "Développeuse Backend",
+          "lastname": "Poda"
+        },
+        "member_6": {
+          "name": "Dmytro",
+          "position": "Développeur UE",
+          "lastname": "Lutskyi"
+        },
+        "member_7": {
+          "name": "Artemiy",
+          "position": "Développeur UE",
+          "lastname": "Krasenko"
+        },
+        "member_8": {
+          "name": "Artem",
+          "position": "Artiste 3D",
+          "lastname": "Veremei"
+        },
+        "member_9": {
+          "name": "Andrii",
+          "position": "Artiste 3D",
+          "lastname": "Lukin"
+        }
+      }
+    },
+    "LetsCollaborateBunner": {
+      "title_0": "Collaborons",
+      "button": "Contactez-nous",
+      "description": "Unissons nos forces pour atteindre vos objectifs."
+    }
+  },
+  "CaseStudy": {
+    "header": "Étude de cas",
+    "nexans": {
+      "company": "Nexans",
+      "title_0": "Nexans Morocco:",
+      "title_1": "Transformer l’Industrie",
+      "description": "Nexans Morocco a utilisé la VR pour créer une expérience immersive d’une sous-station extérieure à deux transformateurs.",
+      "button": "En savoir plus",
+      "details": {
+        "title": "Nexans Morocco: Transformer l’Engagement Industriel grâce à la VR",
+        "mobileTitle_0": "Nexans Morocco:",
+        "mobileTitle_1": "Transformer l’Industrie",
+        "bannerText": "A révolutionné la démonstration produit avec une sous-station interactive en VR, permettant aux clients d’explorer en détail des infrastructures électriques complexes de façon immersive. Cela renforce l’engagement envers la marque, simplifie la communication technique et offre un accès évolutif et économique aux solutions Nexans — positionnant l’entreprise comme un leader de la transformation digitale.",
+        "bannerImg": "/assets/img/caseCard/CaseStudyDetail/nexans/Study-Case-title_nexans.jpg",
+        "bannerImgMobile": "/assets/img/caseCard/CaseStudyDetail/nexans/CaseStudyDetail_nexans_mobile.png",
+        "logoSrc": "/assets/img/caseCard/nexans-logo.svg",
+        "gifIntroduction": "/assets/img/caseCard/CaseStudyDetail/nexans/Case-Study-GF-nexans.gif",
+        "altIntroduction": "Nexans Morocco: Transformer l'engagement industriel grâce à la réalité virtuelle",
+        "introduction": "Introduction",
+        "descriptionIntroduction": "Nexans Morocco, acteur clé de l’industrie électrique et filiale du groupe mondial Nexans, est à la pointe des solutions énergétiques sur les marchés du Maghreb et d’Afrique. Spécialisée dans la transmission et la distribution d’énergie, l’entreprise propose des solutions innovantes, incluant des transformateurs de puissance et des systèmes de surveillance, garantissant une infrastructure énergétique fiable et performante. En adoptant l’innovation, Nexans renforce son leadership industriel et améliore son engagement auprès de ses clients à l’échelle mondiale.",
+        "challenge": "Défi :",
+        "challengeTitle": "Repousser les limites de la démonstration physique",
+        "challengeBullets": {
+          "title_0": "Impossibilité de présenter les produits phares en direct",
+          "text_0": "Les actifs les plus précieux de l’entreprise — tels que les transformateurs de puissance grandeur nature et les systèmes de surveillance — sont trop volumineux et complexes pour être transportés, rendant impossible leur démonstration en direct lors de salons ou de réunions commerciales.",
+          "title_1": "Communication passive et unidirectionnelle",
+          "text_1": "Les brochures, vidéos et rendus 3D statiques offrent un engagement limité. Ils racontent une histoire sur le produit, mais ne permettent jamais au client de le vivre — manquant ainsi l’impact émotionnel et technique d’une interaction réelle.",
+          "title_2": "Opportunités de vente perdues",
+          "text_2": "Sans moyen immersif de présenter l’échelle, la fonction et l’innovation, l’entreprise risquait de perdre des prospects à fort potentiel qui ne pouvaient pas pleinement saisir la valeur de ses solutions lors de brèves rencontres en face à face.",
+          "title_3": "Expérience client mondiale incohérente",
+          "text_3": "La compréhension des produits variait fortement selon la région, la langue ou l’équipe commerciale. Il n’existait pas de méthode unifiée et évolutive pour offrir une expérience produit de qualité constante à travers le monde.",
+          "title_4": "Désavantage concurrentiel à l’ère du digital",
+          "text_4": "Alors que les concurrents commençaient à expérimenter les outils numériques, s’appuyer uniquement sur des présentations statiques risquait de donner une image dépassée — affaiblissant la position de l’entreprise en tant que leader de l’innovation."
+        },
+        "challengeSummary": "Nexans avait besoin d’une solution permettant des démonstrations immersives et interactives de ses systèmes électriques à grande échelle — tels que les transformateurs et unités de surveillance — sans nécessiter de transport physique, tout en conservant la précision technique, une narration engageante, et une scalabilité lors d’événements mondiaux.",
+        "challengeImg1": "/assets/img/caseCard/CaseStudyDetail/nexans/CaseStudyDetail_nexans_challenge_1.jpg",
+        "challengeImg2": "/assets/img/caseCard/CaseStudyDetail/nexans/CaseStudyDetail_nexans_challenge_2.jpg",
+        "altChallenge1": "Extension de la démonstration produit",
+        "altChallenge2": "Extension de la démonstration produit",
+        "solution": "Solution :",
+        "solutionTitle": "Expérience produit immersive en VR sans limites physiques",
+        "solutionBullets": {
+          "title_0": "Poste de transformation virtuel entièrement interactif",
+          "text_0": "L’équipe a développé une sous-station à taille réelle, explorables en réalité virtuelle, permettant aux utilisateurs de se déplacer librement, d’inspecter les composants clés et d’interagir avec des systèmes avancés tels que les transformateurs et dispositifs de surveillance — sans aucun besoin d’installation physique.",
+          "title_1": "Engagement en temps réel via casques Meta Quest",
+          "text_1": "Grâce aux dispositifs VR sans fil, les clients peuvent explorer librement la sous-station, accéder à des visualisations multiples et activer des interfaces intuitives pour approfondir leur compréhension technique — créant ainsi un lien émotionnel et tactile avec le produit.",
+          "title_2": "Visites guidées multilingues",
+          "text_2": "Des voix-off intégrées en anglais, français et arabe marocain assurent l’accessibilité à un large public, tandis que des explications structurées renforcent la compréhension technique quel que soit le profil de l’utilisateur.",
+          "title_3": "Conçu avec Unreal Engine pour un réalisme maximal",
+          "text_3": "Exploiter la puissance visuelle et interactive d’Unreal Engine 5 permet de reproduire des environnements et équipements réels avec une grande fidélité — garantissant un impact visuel saisissant et une précision technique.",
+          "title_4": "Portable, scalable et prêt pour événements",
+          "text_4": "Sans logistique autre qu’un casque VR, la démo peut être déployée partout — des salons internationaux aux réunions clients privées — offrant une expérience cohérente, mémorable et percutante à grande échelle.",
+          "title_5": "Positionnement de l’entreprise en pionnier du digital",
+          "text_5": "En adoptant les technologies immersives, Nexans affirme son image d’innovation et fixe un nouveau standard d’engagement dans les secteurs de l’électricité et de l’énergie."
+        },
+        "impactResults": "Impact et Résultats :",
+        "impactTitle": "Bénéfices commerciaux issus des innovations XR",
+        "impactPreList": "Cette initiative VR a permis à Nexans Morocco de bénéficier de nombreux avantages stratégiques :",
+        "impactBullets": {
+          "title_0": "Autorité de marque renforcée",
+          "text_0": "Positionne Nexans comme un innovateur majeur du secteur.",
+          "title_1": "Engagement client approfondi",
+          "text_1": "3 fois plus de temps d’interaction comparé aux démonstrations traditionnelles.",
+          "title_2": "Meilleure rétention des connaissances",
+          "text_2": "Jusqu’à 4 fois plus de mémorisation des détails techniques par rapport aux formats statiques.",
+          "title_3": "Accélération de la génération de prospects",
+          "text_3": "Augmentation de +65 % des leads qualifiés lors des salons professionnels.",
+          "title_4": "Scalable et rentable",
+          "text_4": "Réduction de plus de 70 % des coûts logistiques."
+        },
+        "impactSummary": "Un saut stratégique qui place Nexans Morocco à l’avant-garde de l’engagement digital industriel, redéfinissant la manière de présenter et comprendre les solutions complexes en énergie électrique."
+      }
+    },
+    "mita": {
+      "company": "MITA",
+      "title_0": "MITA Consulting :",
+      "title_1": "Formation à la Sécurité Électrique",
+      "description": "MITA Consulting, leader de la formation en Nouvelle-Zélande, certifie les électriciens avec des cours accrédités axés sur la sécurité, la conformité et la pratique, selon les normes EWRB.",
+      "button": "En savoir plus",
+      "details": {
+        "title": "Formation Électrique en VR avec MITA : Parcours de Certification Scalable",
+        "mobileTitle_0": "Formation Électrique ",
+        "mobileTitle_1": "en VR avec MITA",
+        "bannerText": [
+          "35 % d’amélioration des scores de préparation avant examen.",
+          "50 % de réduction des erreurs de procédure lors des évaluations en direct.",
+          "40 % de réduction du temps de supervision nécessaire par stagiaire.",
+          "Analyses en temps réel capturées pour 100 % des participants."
+        ],
+        "bannerImg": "/assets/img/caseCard/CaseStudyDetail/mita/Study-Case-title_mita.jpg",
+        "bannerImgMobile": "/assets/img/caseCard/CaseStudyDetail/mita/CaseStudyDetail_mita_mobile.jpg",
+        "logoSrc": "/assets/img/caseCard/mita-logo.svg",
+        "gifIntroduction": "/assets/img/caseCard/CaseStudyDetail/mita/Case-Study-GF-mita.gif",
+        "altIntroduction": "Rendu 3D d’une rue résidentielle tiré de la formation VR MITA EWRB Sequence of Testing, présentant des maisons, des véhicules et des éléments de rue pour une simulation réaliste.",
+        "introduction": "Introduction",
+        "descriptionIntroduction": "MITA Consulting, un organisme de formation de premier plan basé en Nouvelle-Zélande, joue un rôle crucial dans la préparation et la certification de la main-d’œuvre électrique du pays. Axé sur la sécurité, la conformité et le développement des compétences pratiques, MITA propose des cours accrédités alignés sur les normes de l’Electrical Workers Registration Board (EWRB) — l’autorité de régulation pour la délivrance des licences d’électriciens en Nouvelle-Zélande. Face à la pression croissante pour améliorer les compétences des nouveaux travailleurs, réduire les coûts de formation et uniformiser les évaluations, MITA s’est engagé dans l’innovation.",
+        "challenge": "Défi :",
+        "challengeTitle": "Surmonter les limites de la formation électrique traditionnelle",
+        "challengeBullets": {
+          "title_0": "Matériel de test limité",
+          "text_0": "Les salles de classe de MITA disposaient de peu de bancs d’essai physiques et de multimètres, ce qui limitait la formation pratique. Les stagiaires devaient attendre la disponibilité du matériel, freinant leur pratique et mobilisant inutilement le temps des instructeurs pour réinitialiser les installations.",
+          "title_1": "Risques pour les stagiaires",
+          "text_1": "Les erreurs précoces sur des tableaux électriques en direct peuvent ancrer de mauvaises habitudes — ou causer de réels dommages. MITA a identifié un « environnement d’apprentissage à haut risque où les erreurs peuvent provoquer confusion ou pratiques dangereuses », surtout pour les débutants s’entraînant aux contrôles de boucle de défaut et de polarité.",
+          "title_2": "Incohérences pédagogiques",
+          "text_2": "La qualité de la formation variait selon les campus, les équipements et les styles d’instructeurs. MITA souhaitait « standardiser l’expérience d’apprentissage sur tous les sites », garantissant que chaque candidat suive précisément la procédure en huit étapes définie par l’EWRB.",
+          "title_3": "Pressions de temps et de coûts",
+          "text_3": "Les bancs d’essai physiques sont coûteux à construire, entretenir et transporter ; les heures des instructeurs sont absorbées par la réinitialisation des câbles et la supervision de tâches risquées. Depuis le lancement, le module a « réduit la dépendance aux bancs d’essai physiques, libérant du temps et des ressources pour les instructeurs », tout en éliminant les déplacements vers les laboratoires spécialisés.",
+          "title_4": "Conformité évolutive à l’épreuve du futur",
+          "text_4": "La procédure de l’EWRB évolue, et MITA doit rester conforme à la norme AS/NZS 3000. Chaque étape — ainsi que chaque lecture attendue — est « entièrement conforme aux normes » et verrouillée dans le logiciel, permettant des mises à jour en quelques minutes plutôt qu’en plusieurs mois."
+        },
+        "challengeSummary": "MITA avait besoin d’une solution qui maintienne l’intégrité du processus exigé par l’EWRB tout en éliminant les contraintes des environnements traditionnels de formation et d’évaluation.",
+        "challengeImg1": "/assets/img/caseCard/CaseStudyDetail/mita/CaseStudyDetail_mita_challenge_1.jpg",
+        "challengeImg2": "/assets/img/caseCard/CaseStudyDetail/mita/CaseStudyDetail_mita_challenge_2.jpg",
+        "altChallenge1": "Expansion de la démonstration produit",
+        "altChallenge2": "Expansion de la démonstration produit",
+        "solution": "Solution :",
+        "solutionTitle": "Renforcer les compétences grâce à un apprentissage immersif",
+        "solutionBullets": {
+          "title_0": "Immersion totale dans un environnement de test réaliste",
+          "text_0": "Les stagiaires évoluent dans un quartier virtuel réaliste inspiré de lieux réels d’Auckland, où ils réalisent la séquence de test EWRB dans un contexte proche des conditions de terrain, loin d’un laboratoire abstrait. Cela comble le fossé entre théorie et pratique.",
+          "title_1": "Instruction étape par étape conforme aux normes",
+          "text_1": "L’expérience de formation reproduit avec précision le processus complet en 8 étapes de l’EWRB, incluant les tests de continuité, polarité, résistance d’isolement et impédance de boucle de défaut. Les modes guidé et d’évaluation assurent conformité et préparation.",
+          "title_2": "Pratique illimitée sans risque avec retour en temps réel",
+          "text_2": "Les apprenants peuvent répéter les procédures autant de fois que nécessaire dans un environnement sans risque, recevant un retour immédiat sur les erreurs pour renforcer les bonnes techniques, éliminant ainsi la peur de l’échec lors des premières étapes.",
+          "title_3": "Outils intelligents et interactions naturelles",
+          "text_3": "Des multimètres simulés aux sondes contextuelles, chaque interaction est conçue pour garantir précision et réalisme. Les outils répondent dynamiquement, favorisant la mémorisation tactile et une compréhension approfondie de chaque test.",
+          "title_4": "Déploiement flexible et évolutif partout",
+          "text_4": "Le module fonctionne sur casques VR autonomes Pico 4 Enterprise, sans besoin d’ordinateurs externes ou de bancs physiques. Cela permet un déploiement en salles de formation, centres spécialisés ou sites distants, réduisant coûts et contraintes logistiques.",
+          "title_5": "Suivi de performance intégré et analyses détaillées",
+          "text_5": "Intégré à la plateforme Metaenga XR, ce module offre un suivi précis des performances via xAPI. Les formateurs obtiennent des informations claires sur la progression, les erreurs et le temps passé, facilitant un coaching ciblé et la préparation à la certification."
+        },
+        "impactResults": "Impact & Résultats :",
+        "impactTitle": "Améliorations mesurables en matière de sécurité, d’efficacité et d’apprentissage",
+        "impactPreList": "Depuis le lancement du module VR Séquence de Tests, MITA a enregistré des progrès significatifs sur les indicateurs clés de formation :",
+        "impactBullets": {
+          "title_0": "Performance renforcée aux évaluations",
+          "text_0": "Amélioration de 35 % des scores de préparation à l’examen.",
+          "title_1": "Moins d’erreurs en formation",
+          "text_1": "Réduction de 50 % des erreurs procédurales lors des évaluations en conditions réelles.",
+          "title_2": "Gain de temps pour les formateurs",
+          "text_2": "40 % de temps de supervision en moins par stagiaire.",
+          "title_3": "Satisfaction accrue des apprenants",
+          "text_3": "94 % des stagiaires ont évalué l’expérience comme très efficace.",
+          "title_4": "Aucune dépendance au matériel",
+          "text_4": "Suppression totale (100 %) des bancs de test physiques du processus de formation.",
+          "title_5": "Supervision intelligente de la formation",
+          "text_5": "Analyses en temps réel capturées pour 100 % des participants."
+        },
+        "impactSummary": "En transformant un processus de formation crucial en une expérience entièrement immersive, MITA Consulting redéfinit la préparation des électriciens à la certification en Nouvelle-Zélande."
+      }
+    }
+  },
+  "VideoModal": {
+    "title": "Lecteur vidéo YouTube",
+    "button": "Regarder la vidéo"
+  },
+  "SuccessSentOverlay": {
+    "title": "Votre demande a été reçue !",
+    "description_0": "Merci pour votre intérêt ! Notre équipe vous contactera prochainement pour discuter de votre plan personnalisé. Nous sommes là pour vous aider à atteindre vos objectifs.",
+    "description_1": "Commencez dès maintenant à explorer notre plateforme immersive !",
+    "buttonHome": "Retour à l’accueil",
+    "buttonStart": "Commencer l’essai"
+  },
+  "TableHeader": {
+    "titleFlex": "Flex",
+    "titleStandard": "Standard",
+    "titleEnterprise": "Enterprise",
+    "enterprise": "Contact",
+    "standard": "Obtenir",
+    "flex": "Choisir modules"
+  },
+  "ContactSales": {
+    "title": "Contacter les ventes",
+    "subTitle": "Remplissez ce formulaire rapide, nous vous contacterons sous peu",
+    "name": "Nom complet*",
+    "email": "Email*",
+    "company": "Entreprise*",
+    "message": "Message",
+    "submit_0": "Envoyer le formulaire",
+    "submit_1": "Envoyer",
+    "schedule": "Planifier une réunion"
+  },
+  "SuccessContactSales": {
+    "title": "Succès !",
+    "description_0": "Merci de nous avoir contactés. Nous vous répondrons rapidement.",
+    "description_1": "En attendant, planifiez une réunion avec notre ",
+    "description_2": "équipe pour une discussion détaillée.",
+    "buttonHome": "Retour à l’accueil",
+    "buttonStart": "Planifier une réunion"
+  },
+  "ChooseModules": {
+    "title": "Forfait Flex",
+    "description_0": "Choisissez les modules de formation VR",
+    "description_1": "/licence/casque",
+    "numberLicenses": "Nombre de licences",
+    "tooltip_0": "Le nombre de licences correspond au nombre de casques pouvant accéder aux modules achetés. Une licence permet l’accès à un casque : deux licences permettent deux casques.",
+    "videoSet": "Fonctionnalités vidéo 360",
+    "tooltip_1": "Outils pour gérer les vidéos 360 téléchargées, les sessions de groupe, et la lecture web/VR.",
+    "month": "mois",
+    "uploadVideo": "Limites de téléchargement : 10 Go",
+    "classroom": "Session de groupe en classe",
+    "videoPlayer": "Lecteur vidéo 360 pour web et VR",
+    "SubscriptionPeriod": "Période d’abonnement :",
+    "period": "Mensuelle",
+    "tooltip_2": "Abonnement mensuel uniquement disponible",
+    "modules×": "modules ×",
+    "headset×": "casque ×",
+    "standardPlan": "Forfait Standard",
+    "360VideoSet": "Jeu vidéo 360, jusqu’à",
+    "limit": "10 Go ",
+    "uploadLimits": "de limite de téléchargement",
+    "totalPrice": "Prix total",
+    "buttonBack": "Retou",
+    "buttonNext": " Inscrivez-vous d’abord",
+    "likeStandard": "Il semble que vous ayez choisi le plan Standard et économisé",
+    "licenses": "Licences:",
+    "trainings": {
+      "hv": "Poste Électrique Haute Tension",
+      "tos": "Échantillonnage d’Huile de Transformateur",
+      "osha": "Sécurité et santé au travail",
+      "hs": "Manchon Thermo-Rétractable pour Câble",
+      "warehouse": "Expérience de Formation en Entrepôt",
+      "mv": "Isolement Transformateur Poste MT",
+      "forklift": "Inspection Préalable Du Chariot Élévateur",
+      "fs": "Sécurité Incendie et Intervention d’Urgence",
+      "hlo": "Formation Atterrissage Hélicoptère",
+      "mcc": "Dépannage du Centre de Commande Moteur",
+      "dmb": "Notions de Base du Multimètre Numérique",
+      "rct": "Megger Relay y Set de Pruebas CT",
+      "ieiloto": "Isolation Énergétique Industrielle & LOTO",
+      "wah": "Travail en Hauteur",
+      "mar": "Guidage de Véhicules et Signaux Manuels",
+      "mup": "Découplage de l’Actionneur Motorisé"
+    },
+    "metadata": {
+      "title": "Metaenga | Plan Flex",
+      "description": "Bibliothèque de formations VR pour améliorer les programmes de sécurité dans les secteurs de l’électricité, du pétrole et du gaz, des services publics et des entreprises industrielles sous plateforme XR",
+      "locale": "fr_FR"
+    }
+  },
+  "CalendlyWidget": {
+    "metadata": {
+      "title": "Metaenga | Réservez une démo",
+      "description": "Bibliothèque de formations VR pour améliorer les programmes de sécurité dans les secteurs de l’électricité, du pétrole et du gaz, des services publics et des entreprises industrielles sous plateforme XR",
+      "locale": "fr_FR"
+    }
+  },
+  "Sales": {
+    "partners": "Partenariats dont nous sommes fiers",
+    "metadata": {
+      "title": "Metaenga | Contactez les ventes",
+      "description": "Bibliothèque de formations VR pour améliorer les programmes de sécurité dans les secteurs de l’électricité, du pétrole et du gaz, des services publics et des entreprises industrielles sous plateforme XR",
+      "locale": "fr_FR"
+    }
+  },
+  "Layout": {
+    "metadata": {
+      "title": "Plateforme de formation XR pour gérer les solutions de formation VR",
+      "description": "Renforcer le développement des compétences grâce à la plateforme XR pour gérer les programmes de formation en sécurité en réalité virtuelle pour les entreprises, avec analyses et rapports",
+      "locale": "fr_FR",
+      "siteName": "Plateforme de formation XR pour gérer les solutions de formation VR",
+      "keywords": [
+        "metaenga",
+        "formation VR",
+        "Formation VR Sécurité",
+        "formation simulation VR",
+        "Plateforme VR",
+        "Solution de Formation VR",
+        "Programme de Formation VR",
+        "Plateforme XR",
+        "Formation XR",
+        "Plateforme Meta VR",
+        "Prix Plateforme VR",
+        "Plateforme de Réalité Virtuelle pour Entreprises",
+        "Formation Sécurité pour Employés",
+        "Application de Formation VR",
+        "Application de Formation XR",
+        "Edtech",
+        "Sécurité VR",
+        "Sécurité XR",
+        "Solution de Sécurité VR",
+        "Programme de Formation VR",
+        "Solution de Formation VR",
+        "Simulateur VR",
+        "Simulateur XR",
+        "Plateforme de Formation VR",
+        "Plateforme de Formation XR",
+        "Apprentissage VR",
+        "Développement des Compétences VR",
+        "Développement des Compétences XR",
+        "VR pour OSHA",
+        "VR pour HSE",
+        "Expériences Éducatives VR",
+        "Applications Éducatives VR",
+        "Développement des Compétences VR",
+        "Développement des Compétences XR",
+        "Programme de Formation Sécurité VR",
+        "Programme de Formation Sécurité XR",
+        "Plateforme Immersive",
+        "Formation Immersive",
+        "Éducation Immersive",
+        "Apprentissage Immersif",
+        "VR Industrie de l’Énergie",
+        "VR Poste de Transformation",
+        "VR Électricité",
+        "VR Haute Tension",
+        "XR Industrie de l’Énergie",
+        "XR Poste de Transformation",
+        "XR Électricité",
+        "XR Haute Tension",
+        "VR Services Publics",
+        "XR Services Publics"
+      ]
+    }
+  }
+}

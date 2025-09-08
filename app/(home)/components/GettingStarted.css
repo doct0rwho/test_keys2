@@ -1,0 +1,257 @@
+.started {
+	width: 100%;
+	margin: 120px 0px;
+}
+
+
+.started__grid_item_links {
+	display: flex;
+	gap: 0 16px;
+}
+
+.started__grid_item_links a {
+	z-index: 2;
+}
+
+.links>a {
+	margin: 12px 0px 0px 0px;
+
+}
+
+.links>a:nth-child(1) {
+	margin-right: 16px;
+}
+
+@media (max-width: 1440.5px) {
+	.started {
+		margin: 100px 0px;
+	}
+}
+
+@media (max-width: 540.5px) {
+	.started {
+		margin: 70px 0px;
+	}
+}
+
+.started__grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: 1fr;
+	grid-column-gap: 40px;
+	grid-row-gap: 0px;
+}
+
+.started__grid_item {
+	padding: 24px 32px;
+	border: 1px solid #DAD8FF;
+	border-radius: 12px;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+
+.started__grid_item_img {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	justify-content: center;
+	align-items: center;
+	margin: 0 -16px;
+}
+
+.quest__img {
+	padding-top: 20px;
+	z-index: 1;
+}
+
+
+.started__grid_item_signup {
+	background: url('/assets/img/gettingStarted/BG-signup.jpg') center center/cover no-repeat;
+}
+
+.started__grid_item_download {
+	background: url('/assets/img/gettingStarted/BG-download.jpg') center center/cover no-repeat;
+}
+
+.started__grid_item_vr {
+	background: url('/assets/img/gettingStarted/BG-start.jpg') center center/cover no-repeat;
+}
+
+.started__grid_item>.card__header {
+	margin: 0px 0px 12px 0px;
+}
+
+.started__grid_item>.text__body-light {
+	line-height: 28px;
+	margin: 0px 0px 3px 0px;
+}
+
+@media (max-width: 1600.5px) {
+	.started__grid_item_img>img {
+		max-width: 100%;
+		height: fit-content;
+	}
+}
+
+@media (max-width: 1440.5px) {
+	.started__grid_item_img {
+		margin-top: -8px;
+	}
+
+	.started__grid {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: 150px 1fr;
+		grid-column-gap: 24px;
+		grid-row-gap: 24px;
+		grid-template-areas:
+			"signup signup"
+			". .";
+	}
+
+	.started__grid_item_signup {
+		grid-area: signup;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: 1fr 1fr;
+		gap: 0px 16px;
+		grid-auto-flow: row;
+		grid-template-areas:
+			". img"
+			". img";
+	}
+
+	.started__grid_item_signup>.started__grid_item_img {
+		grid-area: img;
+		justify-content: flex-start;
+	}
+
+}
+
+@media (max-width: 1200.5px) {
+	.started__grid_item_img>img {
+		max-height: 220px;
+		object-fit: contain;
+	}
+
+	.started__grid_item {
+		padding: 12px 16px;
+	}
+
+	.started__grid {
+		grid-template-rows: 112px 1fr;
+	}
+
+	.started__grid_item_links a {
+		flex-basis: 100%;
+		justify-content: center;
+		margin: 0;
+	}
+
+}
+
+@media (max-width: 800.5px) {
+	.quest__img {
+		padding-top: 0px;
+	}
+}
+
+@media (max-width: 750.5px) {
+	.started__grid_item_img {
+		margin: 0;
+	}
+
+	.quest__img {
+		padding-top: 0;
+	}
+
+	.started__grid_item_img>img {
+		max-width: 90%;
+	}
+
+	.started__grid_item>.card__header {
+		margin: 0px 0px 8px 0px;
+	}
+
+	.started__grid {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: 112px 124px 112px;
+		grid-row-gap: 16px;
+		grid-template-areas:
+			"signup signup"
+			"download download"
+			"vr vr";
+	}
+
+	.started__grid_item {
+		display: grid;
+		grid-template-columns: 1fr 150px;
+		grid-template-rows: 1fr 1fr;
+		gap: 0px 16px;
+		grid-auto-flow: row;
+		grid-template-areas:
+			". img"
+			". img";
+	}
+
+	.started__grid_item_img {
+		grid-area: img;
+		justify-content: space-between;
+
+	}
+
+	.started__grid_item_download {
+		grid-area: download;
+	}
+
+	.started__grid_item_vr {
+		grid-area: vr;
+	}
+
+}
+
+@media (max-width: 600.5px) {
+
+	.started__grid_item>.card__header {
+		margin: 0px 0px 3px 0px;
+	}
+
+	.started__grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: repeat(3, 1fr);
+		grid-row-gap: 16px;
+
+	}
+
+	.started__grid_item {
+		display: block;
+		height: 192px;
+		position: relative;
+	}
+
+	.started__grid_item>.text__body-light {
+		margin: 0px 0px 6px 0px;
+	}
+
+	.started__grid_item_download>.text__body-light,
+	.started__grid_item_signup>.text__body-light {
+		margin: 0px 0px 0px 0px;
+	}
+
+	.started__grid_item::after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		background: linear-gradient(180deg, rgba(199, 217, 246, 0) 0%, rgba(199, 217, 246, 0.8) 100%);
+		height: 25px;
+	}
+
+	.quest__img {
+		margin-top: -20px;
+	}
+}

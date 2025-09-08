@@ -1,0 +1,298 @@
+.promo {
+	padding: 47px 0px 0px 0px;
+	width: 100%;
+	display: flex;
+}
+
+.promo__info {
+	flex-basis: 50%;
+	flex-grow: 1;
+	flex-shrink: 0;
+	padding-right: 20px;
+}
+
+.promo__info h1 {
+	text-align: left;
+	max-width: 610px;
+	margin: 48px 0px 0px 0px;
+}
+
+.promo__info article {
+	max-width: 615px;
+	margin: 32px 0px 0px 0px;
+}
+
+.promo__info-buttons {
+	margin: 40px 0px 0px 0px;
+	display: flex;
+}
+
+.promo__info-buttons button,
+.promo__info-buttons a:not(:last-child) {
+	margin-right: 16px;
+}
+
+.promo__media.tablet {
+	display: none;
+}
+
+.promo__media.mobile {
+	display: none;
+}
+
+.promo__media.pc {
+	display: block;
+}
+
+.promo__media {
+	width: 100%;
+	margin: 0 auto;
+
+}
+
+.promo__media-img {
+	padding-top: 60%;
+	width: 100%;
+	position: relative;
+	box-shadow: 6px 6px 12px 0px rgba(46, 58, 75, 0.1);
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+/*.promo__media-img > div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	object-fit: cover;
+	max-height: 500px;
+	max-width: 100%;
+	border-radius: 8px;
+	overflow: hidden;
+	box-shadow: 6px 6px 12px 0px rgba(46, 58, 75, 0.1);
+}*/
+
+.promo__media-img video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+}
+
+.promo__media-img img {
+	width: 100%;
+	/*height: 100%;*/
+	box-shadow: 6px 6px 12px 0px rgba(46, 58, 75, 0.1);
+	border-radius: 8px;
+}
+
+.promo__media-img-play {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 0;
+	border: none;
+	box-shadow: none !important;
+	background: transparent;
+	cursor: pointer;
+}
+
+.promo__media-img-play img {
+	box-shadow: none !important;
+	transition: transform 0.2s ease-in-out;
+	width: 88px;
+	height: 88px;
+}
+
+.promo__media-img-play {
+	-webkit-user-select: none;       /* Chrome, Safari, Opera */
+	-moz-user-select: none;          /* Firefox */
+	-ms-user-select: none;           /* Internet Explorer и Edge */
+	user-select: none;               /* Стандартное свойство */
+	-webkit-touch-callout: none;     /* Отключает всплывающее меню на iOS */
+	-webkit-tap-highlight-color: transparent; /* Убирает подсветку при нажатии */
+	touch-action: manipulation;  
+}
+
+.promo__media-img-play:hover img {
+	transform: scale(1.025);
+}
+
+
+
+@media (max-width: 1440.5px) {
+	.promo__media-img {
+		padding-top: 71%;
+	}
+}
+
+@media (max-width: 1200.5px) {
+	.promo {
+		padding: 24px 0px 0px 0px;
+	}
+
+	.promo__info article {
+		font-size: 14px;
+	}
+}
+
+
+
+@media (max-width: 991.5px) {
+	.promo {
+		padding: 40px 0px 0px 0px;
+		margin: 0px 0px 40px 0px;
+	}
+
+	.promo__info {
+		padding: 0;
+	}
+
+	.promo__media.tablet {
+		display: block;
+	}
+
+	.promo__media.pc {
+		display: none;
+	}
+
+	.promo__info h1 {
+		max-width: 500px;
+		text-align: center;
+		margin: 0px auto;
+	}
+
+	.promo__media-img {
+		margin: 25px 0px 0px 0px;
+		padding-top: 60%;
+	}
+
+	.promo__media {
+		padding: 0 32px;
+	}
+
+	.promo__info article {
+		font-size: 16px;
+		text-align: center;
+		margin: 21px auto 0px auto;
+	}
+
+	.promo__info-buttons {
+		margin: 24px 0px 0px 0px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.promo__info-buttons button {
+		margin: 0px 9px;
+	}
+
+
+}
+
+@media (max-width: 767.5px) {
+	.promo__media-img-play img {
+		width: 72px;
+		height: 72px;
+	}
+
+	.promo__info-buttons button,
+	.promo__info-buttons a:not(:last-child) {
+		margin-right: 8px;
+	}
+}
+
+@media (max-width: 400.5px) {
+
+	.promo__info-buttons button,
+	.promo__info-buttons a {
+		margin: 0px;
+	}
+
+	.promo__info-buttons {
+		justify-content: space-around;
+	}
+}
+
+@media (max-width: 575.5px) {
+	.promo {
+		padding: 26px 0px 0px 0px;
+		margin: 0px 0px 39px 0px;
+	}
+
+	.promo__media {
+		padding: 0px;
+	}
+
+	.promo__media.tablet {
+		display: none;
+	}
+
+	.promo__media.mobile {
+		display: block;
+	}
+}
+
+@media (min-width: 991.5px) {
+
+	/*.promo__media {
+		display: flex;
+		justify-content:center;
+		align-items: center;
+	}*/
+	.promo__media-img {
+		height: fit-content;
+	}
+
+	.promo__info {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.promo__info h1 {
+		margin: 0;
+	}
+
+	.promo__info article {
+		margin: 16px 0px 0px 0px;
+	}
+
+	.promo__info-buttons {
+		margin: 24px 0px 0px 0px;
+	}
+}
+
+@media (min-width: 1200px) {
+
+	/*.promo__info h1 {
+		padding-right: 20px;
+	}*/
+	.promo__info {
+		padding-right: 70px;
+	}
+
+	.promo__info article {
+		margin: 24px 0px 0px 0px;
+	}
+
+	.promo__info-buttons {
+		margin: 32px 0px 0px 0px;
+	}
+}
+
+@media (max-width: 447px) {
+  .promo__info-buttons {
+    flex-direction: column;
+    align-items: center; /* центрує кнопки по горизонталі */
+    gap: 18px; /* відступ між кнопками */
+  }
+
+  .promo__info-buttons button,
+  .promo__info-buttons a {
+    margin: 0; 
+  }
+}
+

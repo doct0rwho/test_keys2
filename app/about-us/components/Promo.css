@@ -1,0 +1,177 @@
+.about {
+	background: url('/assets/img/aboutus/promo.jpg') right top/cover no-repeat;
+	margin-bottom: 120px;
+}
+
+.about__wrapper {
+	display: flex;
+	padding: 87px 0 96px 0;
+	width: 100%;
+	overflow: hidden;
+}
+
+/*.about__wrapper-text,
+.about__wrapper-img {
+	flex-basis: 50%;
+}*/
+
+.about__wrapper-text {
+	flex-basis: 637px;
+}
+
+.about__wrapper-img {
+	flex: auto;
+}
+
+.about__wrapper-text>h1 {
+	margin: 0px 0px 24px 0px;
+}
+
+.about__wrapper-img {
+	position: relative;
+	display: flex;
+	flex: 1;
+}
+
+.about__wrapper-img>img {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 100px;
+}
+
+@media (max-width: 1500.5px) {
+	.about__wrapper-img>img {
+		/*width: 325px;
+		height: 347px;*/
+		right: 150px;
+	}
+
+}
+
+@media (max-width: 1440.5px) {
+
+	.about {
+		margin-bottom: 100px;
+	}
+	
+	.about__wrapper-img>img {
+		width: 375px;
+		height: 397px;
+		right: 100px;
+	}
+
+	.about__wrapper-text {
+		flex-basis: 525px;
+	}
+
+	.about__wrapper-text>h1 {
+		margin: 0px 0px 16px 0px;
+	}
+
+}
+
+@media (max-width: 1100.5px) {
+	.about__wrapper-img>img {
+		right: 10px;
+	}
+
+}
+
+@media (max-width: 1100.5px) {
+
+	.about__wrapper-text {
+		flex-basis: 460px;
+	}
+
+}
+
+@media (max-width: 900.5px) {
+	.about {
+		margin-bottom: 80px;
+	}
+	.about__wrapper {
+		padding: 47px 0 52px 0;
+	}
+
+	.about__wrapper-img>img {
+		width: 255px;
+		height: 277px;
+	}
+
+}
+
+@media (max-width: 800.5px) {
+	.about__wrapper-text {
+		flex-basis: 420px;
+	}
+}
+
+
+@media (max-width: 767.5px) {
+	.about {
+		background: url('/assets/img/aboutus/promo_mob.jpg') left top/cover no-repeat;
+		background-size: auto 250px;
+	}
+
+	.about__wrapper {
+		display: flex;
+		flex-direction: column-reverse;
+		padding: 0px 0 0px 0;
+	}
+
+	.about__wrapper-text,
+	.about__wrapper-img {
+		flex-basis: 100%;
+	}
+
+	.about__wrapper-img {
+		display: block;
+		width: 100%;
+		flex-basis: 250px;
+		overflow: hidden;
+	}
+
+	.about__wrapper-img>img {
+		transform: translateX(50%);
+		right: 50%;
+		top: -10px;
+	}
+
+	.about__wrapper-text {
+		text-align: center;
+		padding: 24px 24px 0 24px;
+	}
+}
+
+@media (max-width: 540.5px) {
+	.about {
+		margin-bottom: 46px;
+	}
+	.about__wrapper-text>h1 {
+		margin: 0px 0px 8px 0px;
+	}
+
+	.about__wrapper-text {
+		padding: 24px 16px;
+	}
+}
+
+@media (max-width: 450.5px) {
+
+	.about {
+		background: url('/assets/img/aboutus/promo.jpg') right top/cover no-repeat;
+		background-size: auto 180px;
+	}
+
+	.about__wrapper-img {
+		flex-basis: 180px;
+	}
+
+	.about__wrapper-img>img {
+		top: -30px;
+		width: 215px;
+		height: 237px;
+	}
+
+}

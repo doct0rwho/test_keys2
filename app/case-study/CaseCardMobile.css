@@ -1,0 +1,80 @@
+.caseCardMobile {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 54px;
+}
+
+.caseCardMobile__imageWrapper img {
+  border-radius: 12px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+
+
+.caseCardMobile__logo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.caseCardMobile__title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.caseCardMobile__description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  /* margin-bottom: 16px; */
+  text-align: left;
+}
+
+
+
+.caseCardMobile__button {
+  display: flex;
+  align-self: flex-start; 
+  background: none;
+  border: none;
+  color: var(--primary-color);
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 10px 0;
+}
+
+
+.caseCardMobile__company {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: var(--fieldhover-color);
+}
+
+.icon-arrow-up {
+    display: inline-block;
+    transform: rotate(90deg);
+    transition: transform 0.2s ease;
+    font-size:24px;
+  }
+  
+
+  @media (max-width: 775.5px) {
+    .caseCardMobile__logo img {
+      width: 40px;
+      height: inherit;
+    }
+    .caseCardMobile__title  {
+      font-size: 18px;
+      line-height: 28px; 
+    }
+  
+  }
+  

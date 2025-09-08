@@ -1,0 +1,165 @@
+.contactus {
+	padding: 40px 0 120px 0;
+	flex-grow: 1;
+	flex-wrap: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+.contactus h1 {
+	margin: 0px 0px 20px 0px;
+}
+
+.contactus>p {
+	color: var(--fieldhover-color);
+	line-height: 160%;
+}
+
+.contactus__wrap {
+	margin: 24px 0px 0px 0px;
+	display: flex;
+	max-width: 900px;
+	width: 100%;
+	text-align: left;
+	justify-content: space-between;
+}
+
+.contactus__form {
+	flex-basis: calc(100% - 320px);
+}
+
+.contactus__links {
+	flex-basis: 260px;
+	padding: 30px 0 0 0px;
+}
+
+
+/*
+.c-form > form {
+	text-align: left;
+}*/
+
+.c-form__row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.c-form__row-input {
+	flex-basis: calc(50% - 20px);
+}
+
+.contactus__links .contacts__item,
+.contactus__links .contacts__item-text {
+	padding-left: 0;
+}
+
+
+.cu-links__item {
+	margin: 42px 0px 0px 0px;
+}
+
+.cu-links__item-row {
+	display: flex;
+	align-items: center;
+	margin: 0px 0px 4px 0px;
+}
+
+
+.cu-links__item p {
+	color: var(--textdark-color);
+}
+
+.cu-links__item-row>p {
+	font-size: 18px;
+	font-weight: 700;
+	margin-left: 8px;
+}
+
+@media (max-width: 1440.5px) {
+	.contactus__form {
+		flex-basis: calc(100% - 320px);
+	}
+	
+	.contactus__links {
+		flex-basis: 280px;
+		padding: 30px 0 0 0px;
+	}
+}
+
+
+@media (max-width: 1100.5px) {
+	.contactus {
+		padding: 20px 0 80px 0;
+	}
+}
+
+@media (max-width: 991.5px) {
+
+	.c-form__row-input {
+		flex-basis: calc(50% - 10px);
+	}
+}
+
+@media (max-width: 767.5px) {
+	.contactus h1 {
+		font-size: 36px;
+		margin: 0px 0px 16px 0px;
+	}
+
+	.c-form {
+		flex-basis: 100%;
+	}
+
+	.contactus__wrap {
+		flex-wrap: wrap;
+	}
+
+	.cu-links {
+		display: flex;
+		flex-basis: 100%;
+		flex-direction: row-reverse;
+		margin: 42px 0px 0px 0px;
+		padding: 0;
+	}
+
+	.cu-links__item,
+	.cu-links>.socials {
+		flex-basis: 50%;
+		margin: 0;
+	}
+}
+
+@media (max-width: 540.5px) {
+	.contactus>p {
+		display: none;
+	}
+
+	.contactus h1 {
+		font-size: 24px;
+		margin: 0px 0px 0px 0px;
+	}
+
+	.contactus {
+		padding: 20px 0 60px 0;
+	}
+
+	.c-form__row-input {
+		flex-basis: 100%;
+	}
+
+	.c-form__row {
+		flex-wrap: wrap;
+	}
+
+	.cu-links {
+		flex-wrap: wrap;
+	}
+
+	.cu-links__item,
+	.cu-links>.socials {
+		flex-basis: 100%;
+		margin-bottom: 18px;
+	}
+}

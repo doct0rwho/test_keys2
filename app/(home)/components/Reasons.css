@@ -1,0 +1,26 @@
+.reasons {
+	width: 100%;
+	margin: 120px 0px 0px 0px;
+}
+
+.reasons h3 {
+	margin-bottom: 8px;
+}
+
+@media (max-width: 1440.5px) {
+	.reasons {
+		margin: 100px 0px 0px 0px;
+	}
+}
+
+@media (max-width: 1000.5px) {
+	.reasons__container {
+		padding: 0;
+	}
+}
+
+@media (max-width: 540.5px) {
+	.reasons {
+		margin: 70px 0px 0px 0px;
+	}
+}

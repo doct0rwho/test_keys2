@@ -1,0 +1,98 @@
+.solution {
+    padding: 72px 0 0px 0;
+
+  }
+  
+  .solution__title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+  }
+  
+  .solution__subtitle {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 24px;
+  }
+  
+  .solution__descriptionWrapper {
+    max-width: 1248px;
+  
+  }
+  
+  .solution__list {
+    padding-left: 20px;
+    list-style: disc !important;
+    margin-left: 8px;
+  }
+  
+  .solution__list li {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+
+  }
+
+    .solution__list li:not(:last-child) {
+  margin-bottom: 20px; /* або 16px, або скільки потрібно */
+}
+  .solution__prelist{
+    margin-bottom: 24px;
+  }
+  .solution__summary, .solution__prelist{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    
+  }
+
+  @media (max-width: 1500px) {
+    .solution__descriptionWrapper {
+        max-width: 872px;
+        margin: 0 auto; 
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .solution__title {
+      font-size: 36px;
+      line-height: 40px;
+      margin-bottom: 10px;
+  
+    }
+    .solution__subtitle{
+      font-size: 24px;
+      line-height: 28px;
+    }
+    .solution {
+      padding: 49px 0 0px 0;
+    }
+  }
+
+  @media (max-width: 440px) {
+    .solution__title {
+      font-size: 24px;
+      margin-bottom: 8px;
+
+    }
+    .solution__subtitle{
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .solution__summary, .solution__prelist, .solution__list li{
+      font-size: 16px;
+    }
+   
+  }
+  
+  
+  
+  
+ 
+  
+  
+ 

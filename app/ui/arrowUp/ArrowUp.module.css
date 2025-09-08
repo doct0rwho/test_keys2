@@ -1,0 +1,62 @@
+.pageup {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	background-color: #fff;
+	filter: drop-shadow(0px 0px 4px rgba(46, 58, 75, 0.12)) drop-shadow(2px 4px 10px rgba(46, 58, 75, 0.16));
+	position: fixed;
+	left: calc(100vw - 120px);
+	bottom: 40px;
+	opacity: 0;
+	visibility: hidden;
+	transition: opacity 0.3s ease-in-out 0.2s, visibility 0.3s ease-out 0.2s, transform 0.3s ease-in-out;
+	cursor: pointer;
+	z-index: 20;
+}
+
+.pageup.visible {
+	opacity: 1;
+	visibility: visible;
+}
+
+.pageup:hover {
+	transform: scale(1.05);
+}
+
+.pageup > i {
+	font-size: 40px;
+}
+
+@media (max-width: 1600.5px){
+	.pageup {
+		width: 60px;
+		height: 60px;
+		left: calc(100vw - 90px);
+		bottom: 30px;
+	}
+	.pageup > i {
+		font-size: 35px;
+	}
+}
+
+@media (max-width: 991.5px){
+	.pageup {
+		width: 50px;
+		height: 50px;
+		left: calc(100vw - 90px);
+		bottom: 30px;
+	}
+	.pageup > i {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 545.5px){
+	.pageup {
+		left: calc(100vw - 75px);
+		bottom: 25px;
+	}
+}

@@ -1,0 +1,32 @@
+/*.members {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}*/
+
+.members {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 0px -26px 90px -26px;
+}
+
+@media (max-width: 1730.5px) {
+	.members {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		margin: 0px -8px 70px -8px;
+	}
+
+}
+
+@media (max-width: 1440.5px) {
+	.members {
+		margin: 0px -8px 46px -8px;
+	}
+}
+
+@media (max-width: 540.5px) {
+
+}
